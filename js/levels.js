@@ -13,7 +13,8 @@ const levels = {
     youtube: "4lfkzz1VCbA",
     bgColor: "#120e1a",
     song: "-Ricochet Love- by Waterflame (ID 233860)",
-    description: "An idea that started 5 years ago has now been brought to light. Venture into the depths of the cave to fulfill an ancient legend. Will you be the one to find the Amethyst crystal?"
+    description: "An idea that started 5 years ago has now been brought to light. Venture into the depths of the cave to fulfill an ancient legend. Will you be the one to find the Amethyst crystal?",
+    trivia: "Current Top 1, Cbf blocker placed"
   },
   thinkingspaceii: {
     name: "Thinking Space II",
@@ -29,7 +30,8 @@ const levels = {
     youtube: "CELNmHwln_c",
     bgColor: "#2b2330",
     song: "Nuke Powder by MaelouX (ID 489111)",
-    description: "A mindscape of pure insanity, most fall to it's brutal nature. Gameplay by CoCy team, Deco hosted by DrCuber, Verified by Zoink. Dedicated to Hideki <3"
+    description: "A mindscape of pure insanity, most fall to it's brutal nature. Gameplay by CoCy team, Deco hosted by DrCuber, Verified by Zoink. Dedicated to Hideki <3",
+    trivia: "Former Top 1(1 hour(before Amethyst) + 49 days(cbf blocker placed on Amethyst), Cbf blocker deleted"
   },
   flamewall: {
     name: "Flamewall",
@@ -45,7 +47,8 @@ const levels = {
     youtube: "x4Io4zkWVRw",
     bgColor: "#3d2400",
     song: "Flamewall by Camellia (ID 10007151)",
-    description: "The ultimate endurance test, in the works since 2022. | Verified by Cuatrocientos in 221.703k attempts."
+    description: "The ultimate endurance test, in the works since 2022. | Verified by Cuatrocientos in 221.703k attempts.",
+    trivia: "Cbf blocker deleted"
   },
   tidalwave: {
     name: "Tidal Wave",
@@ -61,6 +64,41 @@ const levels = {
     youtube: "9fsZ014qB3s",
     bgColor: "#003a47",
     song: "Tidal Wave(Shiawase VIP rmx) by RunoNG (ID 1266014), Shiawave(VIP) by Dion Timmer (NONG)",
-    description: "Drown them"
+    description: "Drown them",
+    trivia: "Former Top 1(162 days(Unrated) + 472 days(before Thinking Space II)"
+  },
+  orbit: {
+    name: "ORBIT",
+    creator: "MindCap and more",
+    verifier: "Zoink",
+    id: "133175713",
+    password: "Free Copy",
+    length: "3m 42s",
+    object: "308,666",
+    version: "2.208",
+    difficulty: "Extreme Demon",
+    rating: "Mythic",
+    youtube: "QKcv8DkNPd0",
+    bgColor: "#42022c",
+    song: "Animation Warrior Theme by NightHawk22 (ID 80273)",
+    description: "O",
+    trivia: "First Mythic rated Extreme Demon"
+  },
+  nullscapes: {
+    name: "Nullscapes",
+    creator: "Kiba",
+    verifier: "Zoink",
+    id: "109780665",
+    password: "Free Copy",
+    length: "1m 21s",
+    object: "63,179",
+    version: "2.206",
+    difficulty: "Extreme Demon",
+    rating: "Mythic",
+    youtube: "QKcv8DkNPd0",
+    bgColor: "#454545",
+    song: "Creo - Flow by CreoMusic (ID 1132447), Creo - Slow Down by CreoMusic (ID 800646)(intro)",
+    description: "GET OUT OF MY HEAD",
+    trivia: "Cbf blocker deleted"
   },
 };
