@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/levels.js"></script>
+
+    <meta charset="UTF-8">
+    <title>Cellutic Demon List</title>
+    <style>
+        body {
+            color: white;
+            font-family: Montserrat;
+            margin: 0;
+            padding: 40px;
+            display: flex;
+            justify-content: center;
+        }
+
+        a {
+            color: #ff4444;
+            text-decoration: none;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+            text-align: center;
+        }
+
+        h1 {
+            margin-top: 0;
+            font-size: 50px;
+        }
+
+        .back {
+            margin-bottom: 20px;
+            display: inline-block;
+        }
+
+        .description {
+            color: #bbbbbb;
+            font-style: italic;
+            font-size: 18px;
+        }
+
+        .information {
+            font-size: 24px;
+        }
+
+        .information p {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            margin: 8px 0;
+        }
+
+        .information strong {
+            margin-right: 10px;
+        }
+
+        .information span {
+            margin-right: 24px;
+        }
+        
+    </style>
+</head>
+<body>
+
+<div id="level-container"></div>
+
+    <script>
+      const params = new URLSearchParams(window.location.search);
+      const key = params.get("level");
+
+      const data = levels[key];
+
+      if(data){
+        document.body.style.backgroundColor = data.bgColor;
+
+        document.getElementById("level-container").innerHTML = 
+
+        <h1>${data.name}</h1>
+
+        <iframe width="800" height="450"
+          src="${data.youtube}"
+          frameborder="0" allowfullscreen>
+        </iframe>
+
+        <p><span class="description">${data.description}</span></p>
+
+        <div class="information">
+            <p><span><strong>Creator </strong> ${data.creator}</span><span><strong>Verifier </strong> ${data.verifier}</span></p>
+            <p><span><strong>ID </strong> ${data.id}</span><span><strong>Password </strong> ${data.password}</span></p>
+            <p><span><strong>Length </strong>${data.length}</span><span><strong>Object Count </strong>${data.object}</span></p>
+            <p><span><strong>Upload Version </strong> ${data.version}</span></p>
+            <p><span><strong>Difficulty </strong> ${data.difficulty}</span><span><strong>Rating </strong>${data.rating}</span></p>
+            <p><span><strong>Song </strong>${data.song}</span></p>
+        </div>
+        ;
+
+      }
+
+    </script>
+
+</div>
+
+</body>
+</html>
