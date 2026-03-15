@@ -305,4 +305,7 @@ const levels = {
     description: "Originally made by me, redecorated by Renn241, with help from Cursed, Scorpion, and Taika. Very very special thanks to Flora4821. Enjoy the underwater trial :)",
     trivia: "The decoration was updated on August 2025"
   },
+  ashleywavetrials: {
+    name: "Ashley Wave Trials",
+  },
 };
