@@ -307,5 +307,19 @@ const levels = {
   },
   ashleywavetrials: {
     name: "Ashley Wave Trials",
+    creator: "OddMod",
+    verifier: "Zoink",
+    id: "62912799",
+    password: "Free Copy",
+    length: "2m 6s",
+    object: "48,670",
+    version: "2.11",
+    difficulty: "Extreme Demon",
+    rating: "Featured",
+    youtube: "aTxt76U3e2Q",
+    bgColor: "#cc1144",
+    song: "Dr. Finkelfrackens Cure by bossfightofficial (ID 383158)",
+    description: "My first time decorating like this!! ^^ Verified by Zoink",
+    trivia: "Originally unnerfed, later modified by the creator"
   },
 };
