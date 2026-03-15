@@ -31,7 +31,10 @@ body{
 }
 
 .logo{
-    height:10px;
+    height:40px;
+    max-height:40px;
+    width:auto;
+    margin-right:15px;
     cursor:pointer;
 }
 
