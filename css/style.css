@@ -13,10 +13,13 @@ body{
     background:#0e0e0e;
     border-bottom:1px solid #222;
 
-    padding:15px 20px;
+    height:60px;
 
     display:flex;
     align-items:center;
+    gap:20px;
+
+    padding-left:20px;
 
     z-index:1000;
 }
