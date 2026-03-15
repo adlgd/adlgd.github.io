@@ -44,6 +44,10 @@ body{
     cursor:pointer;
 }
 
+.discord:hover{
+    background:#cccccc;
+}
+
 .menu-button{
     cursor:pointer;
     display:flex;
