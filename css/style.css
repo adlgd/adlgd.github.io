@@ -42,6 +42,7 @@ body{
 
 .discord{
     cursor:pointer;
+    transition: transform 0.15s ease;
 }
 
 .discord:hover{
