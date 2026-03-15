@@ -317,9 +317,26 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "Featured",
     youtube: "aTxt76U3e2Q",
-    bgColor: "#cc1144",
+    bgColor: "#971538",
     song: "Dr. Finkelfrackens Cure by bossfightofficial (ID 383158)",
     description: "My first time decorating like this!! ^^ Verified by Zoink",
     trivia: "Originally unnerfed, later modified by the creator"
+  },
+  silentclubstep: {
+    name: "Silent clubstep",
+    creator: "TheRealSailent",
+    verifier: "zoe",
+    id: "4125776",
+    password: "Copy Disabled",
+    length: "1m 27s",
+    object: "10,906",
+    version: "1.9",
+    difficulty: "Extreme Demon",
+    rating: "-",
+    youtube: "GR4OMkS3SN8",
+    bgColor: "#020024",
+    song: "dj-nate - Clubstep (ingame song)",
+    description: "7 years and you still play me?!",
+    trivia: "Lost Top 1(underrated)"
   },
 };
