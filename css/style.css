@@ -59,6 +59,25 @@ body{
     background:#4752c4;
 }
 
+.time-machine{
+    padding:8px 14px;
+    border-radius:6px;
+    border:2px solid #782211;
+    
+    font-size:18px;
+    font-weight:bold;
+    color:#eeeeee;
+    text-decoration: none;
+    
+    background:#111111;
+    transition:0.2s;
+    cursor:pointer;
+}
+
+.time-machine:hover{
+    background:#631b0d;
+}
+
 .menu-button{
     cursor:pointer;
     display:flex;
