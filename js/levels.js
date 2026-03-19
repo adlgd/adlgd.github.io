@@ -418,8 +418,8 @@ const levels = {
     version: "2.207",
     difficulty: "Insane",
     rating: "Unrated",
-    youtube: "ejJkpqcMMCY",
-    bgColor: "#000080",
+    youtube: "av5D0_M6hso",
+    bgColor: "#002d80",
     song: "F-777 - Sonic Blaster by F-777 (ID 574484)",
     description: "Slithium's version of Sonic Wave Infinity, cancelled due to Xanii's verification. Verified by Hipo (me, not credited in the endscreen to stay faithful to the original copy).",
     trivia: "Buffed version(old impossible) of Sonic Wave Infinity"
