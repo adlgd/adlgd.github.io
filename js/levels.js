@@ -385,7 +385,7 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "Epic",
     youtube: "nnkgghxxsEE",
-    bgColor: "#d5ad00",
+    bgColor: "#825c03",
     song: "Menace by TheRealMannyHeffley (ID 1304920)",
     description: "\"The only truth in this world is that there is no truth.\" Verified by Whizkid. Level and song by me.",
     trivia: "Solo level(Song, Layout, Design)"
