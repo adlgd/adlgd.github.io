@@ -40,7 +40,7 @@ body{
 
 .logo{
     height:50px;
-    margin-left:400px;
+    margin-left:430px;
     width:auto;
     cursor:pointer;
 }
@@ -49,6 +49,7 @@ body{
     padding:8px 14px;
     border-radius:6px;
     border:2px solid #5865f2;
+    margin-right:20px;
     
     font-size:18px;
     font-weight:bold;
@@ -68,6 +69,7 @@ body{
     padding:8px 14px;
     border-radius:6px;
     border:2px solid #782211;
+    margin-right:430px;
     
     font-size:18px;
     font-weight:bold;
@@ -133,10 +135,11 @@ body{
         gap:25px;
     }
     .logo{
-    height:50px;
-    margin-left:100px;
-    width:auto;
-    cursor:pointer;
+        height:50px;
+        width:auto;
+    }
+    .time-machine{
+        margin-right:0px;
     }
 }
 
@@ -150,8 +153,10 @@ body{
         padding:0 10px;
     }
     .logo{
-    height:50px;
-    width:auto;
-    cursor:pointer;
+        height:50px;
+        width:auto;
+    }
+    .time-machine{
+        margin-right:0px;
     }
 }
