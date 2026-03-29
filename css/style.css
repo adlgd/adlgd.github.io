@@ -130,7 +130,7 @@ body{
     background:#222;
 }
 
-@media (max-width:1400px){
+@media (max-width:1300px){
     .center{
         position:static;
         transform:none;
@@ -141,30 +141,11 @@ body{
     }
     .logo{
         height:50px;
-        margin-left:200px;
+        margin-left:100px;
         width:auto;
     }
     .time-machine{
-        margin-right:240px;
-    }
-}
-
-@media (max-width:1000px){
-    .center{
-        position:static;
-        transform:none;
-
-        width:100%;
-        justify-content:space-between;
-        padding:0 10px;
-    }
-    .logo{
-        height:50px;
-        margin-left:0px;
-        width:auto;
-    }
-    .time-machine{
-        margin-right:40px;
+        margin-right:140px;
     }
 }
 
