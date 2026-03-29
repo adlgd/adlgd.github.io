@@ -70,7 +70,7 @@ body{
     padding:8px 14px;
     border-radius:6px;
     border:2px solid #782211;
-    margin-right:480px;
+    margin-right:40px;
     
     font-size:18px;
     font-weight:bold;
@@ -129,34 +129,6 @@ body{
 
 .side-menu a:hover{
     background:#222;
-}
-
-@media (max-width:1400px){
-    .center{
-        gap:25px;
-    }
-    .logo{
-        height:50px;
-        margin-left:140px;
-        width:auto;
-    }
-    .time-machine{
-        margin-right:200px;
-    }
-}
-
-@media (max-width:1000px){
-    .center{
-        gap:25px;
-    }
-    .logo{
-        height:50px;
-        margin-left:0px;
-        width:auto;
-    }
-    .time-machine{
-        margin-right:40px;
-    }
 }
 
 @media (max-width:700px){
