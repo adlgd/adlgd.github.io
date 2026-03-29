@@ -131,6 +131,44 @@ body{
     background:#222;
 }
 
+@media (max-width:1400px){
+    .center{
+        position:static;
+        transform:none;
+
+        width:100%;
+        justify-content:space-between;
+        padding:0 10px;
+    }
+    .logo{
+        height:50px;
+        margin-left:0px;
+        width:auto;
+    }
+    .time-machine{
+        margin-right:40px;
+    }
+}
+
+@media (max-width:1000px){
+    .center{
+        position:static;
+        transform:none;
+
+        width:100%;
+        justify-content:space-between;
+        padding:0 10px;
+    }
+    .logo{
+        height:50px;
+        margin-left:0px;
+        width:auto;
+    }
+    .time-machine{
+        margin-right:40px;
+    }
+}
+
 @media (max-width:700px){
     .center{
         position:static;
