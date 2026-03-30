@@ -203,23 +203,6 @@ const levels = {
     description: "Never Ending",
     trivia: "-"
   },
-  vscx2: {
-    name: "VSC x2",
-    creator: "Nev9(BoBoBoBoBoBoBo)",
-    verifier: "Nev9",
-    id: "125131485",
-    password: "Free Copy",
-    length: "41s",
-    object: "14,667",
-    version: "2.207",
-    difficulty: "Insane",
-    rating: "Unrated",
-    youtube: "92Msl_EI-5E",
-    bgColor: "#423b02",
-    song: "-Stalker- by Waterflame (ID 620959)",
-    description: "173 completions, 1247822 attempts! verified by me",
-    trivia: "A double VSC"
-  },
   andromeda: {
     name: "andromeda",
     creator: "Insxne97",
@@ -253,6 +236,23 @@ const levels = {
     song: "NK - Sine Wavs by Rukkus (ID 512976)",
     description: "The hardest nine circles level... at the time // By SeptaGon7 and Renn241",
     trivia: "Old impossible level(Unnerfed)"
+  },
+  vscx2: {
+    name: "VSC x2",
+    creator: "Nev9(BoBoBoBoBoBoBo)",
+    verifier: "Nev9",
+    id: "125131485",
+    password: "Free Copy",
+    length: "41s",
+    object: "14,667",
+    version: "2.207",
+    difficulty: "Insane",
+    rating: "Unrated",
+    youtube: "92Msl_EI-5E",
+    bgColor: "#423b02",
+    song: "-Stalker- by Waterflame (ID 620959)",
+    description: "173 completions, 1247822 attempts! verified by me",
+    trivia: "A double VSC"
   },
   anathema: {
     name: "Anathema",
