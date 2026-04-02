@@ -458,4 +458,21 @@ const levels = {
     description: "Also inspired by Maplestory. Verified by PoCle",
     trivia: ""
   },
+  tunnelofdespair: {
+    name: "Tunnel of Despair",
+    creator: "Exen and ImMaxX1",
+    verifier: "Zoink",
+    id: "91351939",
+    password: "Free Copy",
+    length: "1m 44s",
+    object: "75,309",
+    version: "2.11",
+    difficulty: "Extreme Demon",
+    rating: "Featured",
+    youtube: "LpS4JREhW98",
+    bgColor: "#2c0000",
+    song: "Silent Hill (Dubstep) by Jewelz123 (ID 386900)",
+    description: "Tunnel of Despair. Gameplay by Exen, Deco by ImMaxX1, Verified by Zoink.",
+    trivia: ""
+  },
 };
