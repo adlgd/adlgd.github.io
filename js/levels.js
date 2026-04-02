@@ -150,7 +150,7 @@ const levels = {
     bgColor: "#4d0039",
     song: "Dash by MDK (ingame song), Blast Processing by Waterflame (ingame song)",
     description: "verified by zoink, level by blankb and I",
-    trivia: ""
+    trivia: "-"
   },
   penumbral: {
     name: "Penumbral",
@@ -161,13 +161,13 @@ const levels = {
     length: "1m 24s",
     object: "87,891",
     version: "2.208",
-    difficulty: "Insane",
-    rating: "Unrated",
+    difficulty: "Extreme Demon",
+    rating: "Featured",
     youtube: "nVHPFf13M-I",
     bgColor: "#592500",
     song: "xStep by DJVI (ingame song)",
     description: "Hosted by nxhtrise // Verified by w3rty.",
-    trivia: ""
+    trivia: "-"
   },
   boobawamba: {
     name: "BOOBAWAMBA",
@@ -456,7 +456,7 @@ const levels = {
     bgColor: "#00465d",
     song: "re:カレント by Miyolophone (ID 783614)",
     description: "Also inspired by Maplestory. Verified by PoCle",
-    trivia: ""
+    trivia: "-"
   },
   tunnelofdespair: {
     name: "Tunnel of Despair",
@@ -473,6 +473,74 @@ const levels = {
     bgColor: "#2c0000",
     song: "Silent Hill (Dubstep) by Jewelz123 (ID 386900)",
     description: "Tunnel of Despair. Gameplay by Exen, Deco by ImMaxX1, Verified by Zoink.",
-    trivia: ""
+    trivia: "-"
+  },
+  kyouki: {
+    name: "Kyouki",
+    creator: "Demishio",
+    verifier: "Demishio",
+    id: "86018142",
+    password: "Free Copy",
+    length: "1m 38s",
+    object: "220,717",
+    version: "2.11",
+    difficulty: "Extreme Demon",
+    rating: "Featured",
+    youtube: "KDa5c0CJTHs",
+    bgColor: "#39005e",
+    song: "Creo - Crazy by CreoMusic (ID 905108)",
+    description: "This is Crazy.",
+    trivia: "Solo level(layout, design, verify)"
+  },
+  voltage: {
+    name: "Voltage",
+    creator: "ThePurgatory",
+    verifier: "maybee",
+    id: "131599104",
+    password: "Free Copy",
+    length: "1m 8s",
+    object: "65,757",
+    version: "2.207",
+    difficulty: "Extreme Demon",
+    rating: "Featured",
+    youtube: "wBRvBN9tmlc",
+    bgColor: "#593606",
+    song: "{dj-N} Call the PoPo! by dj-Nate (ID 485224)",
+    description: "Electricity, electrify, zaaap, electrons | Hosted by Phantom7Ks | Verified by Maybee | Gameplay by Lagnugg | 16-01-26 | #ThePurgatorySupremacy",
+    trivia: "-"
+  },
+  oldaod: {
+    name: "Old AoD",
+    creator: "Exen and more",
+    verifier: "Dils thik",
+    id: "76680844",
+    password: "Free Copy",
+    length: "2m 5s",
+    object: "100,000",
+    version: "2.11",
+    difficulty: "Insane",
+    rating: "Unrated",
+    youtube: "RWBEfS4mLbw",
+    bgColor: "#400501",
+    song: "Death Note Dubstep [SB] by ShadowBeatzInc (ID 513539)",
+    description: "-",
+    trivia: "Old version of Abyss of Darkness"
+  },
+  thinkingspaceiiog: {
+    name: "Thinking Space II",
+    creator: "CoCyMain and more",
+    verifier: "Zeronium",
+    id: "132854166",
+    password: "Free Copy",
+    length: "1m 7s",
+    object: "46,734",
+    version: "2.208",
+    difficulty: "Insane",
+    rating: "Unrated",
+    youtube: "RJedeB2wHCA",
+    bgColor: "#404040",
+    song: "Nuke Powder by MaelouX (ID 489111)",
+    description: "Made to follow the original creators' project wishes. Original layout hosted by KugelBlitZ. Level hosted by Marcy and Sebi. Verified by Zeronium. Officially recognized by HidekiX",
+    trivia: "Legacy version of Thinking Space II"
   },
 };
