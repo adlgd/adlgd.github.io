@@ -407,23 +407,6 @@ const levels = {
     description: "-",
     trivia: "Former Top 1"
   },
-  swislithium: {
-    name: "SWI Slithium",
-    creator: "Hipo and more(Slithium)",
-    verifier: "Hipo",
-    id: "129774598",
-    password: "Free Copy",
-    length: "2m 3s",
-    object: "45,311",
-    version: "2.207",
-    difficulty: "Insane",
-    rating: "Unrated",
-    youtube: "av5D0_M6hso",
-    bgColor: "#002d80",
-    song: "F-777 - Sonic Blaster by F-777 (ID 574484)",
-    description: "Slithium's version of Sonic Wave Infinity, cancelled due to Xanii's verification. Verified by Hipo (me, not credited in the endscreen to stay faithful to the original copy).",
-    trivia: "Buffed version(old impossible) of Sonic Wave Infinity"
-  },
   defeatedcircles: {
     name: "Defeated Circles",
     creator: "GXQ and more",
@@ -509,6 +492,23 @@ const levels = {
     description: "-",
     trivia: "Old version of Abyss of Darkness"
   },
+  swislithium: {
+    name: "SWI Slithium",
+    creator: "Hipo and more(Slithium)",
+    verifier: "Hipo",
+    id: "129774598",
+    password: "Free Copy",
+    length: "2m 3s",
+    object: "45,311",
+    version: "2.207",
+    difficulty: "Insane",
+    rating: "Unrated",
+    youtube: "av5D0_M6hso",
+    bgColor: "#002d80",
+    song: "F-777 - Sonic Blaster by F-777 (ID 574484)",
+    description: "Slithium's version of Sonic Wave Infinity, cancelled due to Xanii's verification. Verified by Hipo (me, not credited in the endscreen to stay faithful to the original copy).",
+    trivia: "Buffed version(old impossible) of Sonic Wave Infinity"
+  },
   voltage: {
     name: "Voltage",
     creator: "ThePurgatory",
@@ -542,5 +542,39 @@ const levels = {
     song: "Nuke Powder by MaelouX (ID 489111)",
     description: "Made to follow the original creators' project wishes. Original layout hosted by KugelBlitZ. Level hosted by Marcy and Sebi. Verified by Zeronium. Officially recognized by HidekiX",
     trivia: "Legacy version of Thinking Space II"
+  },
+  unnerfeddiabolicclubstep: {
+    name: "Unnerfed Diabolic Cl",
+    creator: "Sevant and IIIspitfireIII",
+    verifier: "Sevant",
+    id: "78149361",
+    password: "Copy Disabled(password is secret)",
+    length: "1m 27s",
+    object: "20,006",
+    version: "2.11",
+    difficulty: "Insane",
+    rating: "Unrated",
+    youtube: "WHOfO0OxbvM",
+    bgColor: "#400501",
+    song: "Clubstep by DJ-Nate (ingame song)",
+    description: "NOT the true unnerfed, which is lost. This is the closest version to it that I found, but probably not the hardest existing one.",
+    trivia: "Unnerfed version of Diabolic Clubstep"
+  },
+  basedafterbased: {
+    name: "Based After Based",
+    creator: "Akunakunn and more",
+    verifier: "DiamondSplash",
+    id: "110534288",
+    password: "Free Copy",
+    length: "1m 28s",
+    object: "99,072",
+    version: "2.206",
+    difficulty: "Extreme Demon",
+    rating: "Featured",
+    youtube: "yQBFyUvB3lY",
+    bgColor: "#630085",
+    song: "Base After Base by DJVI (ID 404997)",
+    description: "Welcome! This is a top 10 extreme demon with no spikes, no saws, no slopes, no waves, only duals and only 1x speed. Only verified by DiamondSplash aswell! Hope you all beat it too!",
+    trivia: "Only dual & 1x speed, no spikes"
   },
 };
