@@ -577,4 +577,21 @@ const levels = {
     description: "Welcome! This is a top 10 extreme demon with no spikes, no saws, no slopes, no waves, only duals and only 1x speed. Only verified by DiamondSplash aswell! Hope you all beat it too!",
     trivia: "Only dual & 1x speed, no spikes"
   },
+  zorin: {
+    name: "zorin",
+    creator: "SnowEye(art by many people)",
+    verifier: "9i",
+    id: "134541844",
+    password: "Free Copy",
+    length: "2m 56s",
+    object: "139,932",
+    version: "2.208",
+    difficulty: "Extreme Demon",
+    rating: "Epic",
+    youtube: "U19vmpenb9g",
+    bgColor: "#944386",
+    song: "Supernatural by zenkusaa (ID 1172938)",
+    description: "Dedicated to my friends especially novi, ziglon Special thanks to Sonmok / Verified by 9i",
+    trivia: "No spikes"
+  },
 };
