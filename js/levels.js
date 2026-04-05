@@ -645,23 +645,6 @@ const levels = {
     description: "The memories erased from a forgotten bunny... Verified by Sydno in 121.876 attempts. Dedicated to GemaYue and Frutos Secos.",
     trivia: "-"
   },
-  3shonpointercrate: {
-    name: "3SH on Pointercrate",
-    creator: "tahabht(UFokinWotM8",
-    verifier: "VovanPo",
-    id: "127534241",
-    password: "Free Copy",
-    length: "20s",
-    object: "7,134",
-    version: "2.207",
-    difficulty: "Insane(Challenge)",
-    rating: "Unrated",
-    youtube: "oY-rlZxhLUM",
-    bgColor: "#42022c",
-    song: "---Fury--- by Acid-Notation (ID 529291)",
-    description: "\"omw to buy 3kg of bread at the 3shop joot\" verified by VovanPo",
-    trivia: "-"
-  },
   vsc: {
     name: "VSC",
     creator: "BoBoBoBoBoBoBo and Woom",
