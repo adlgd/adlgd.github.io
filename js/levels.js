@@ -84,23 +84,6 @@ const levels = {
     description: "O",
     trivia: "First Mythic rated Extreme Demon"
   },
-  nullscapes: {
-    name: "Nullscapes",
-    creator: "Kiba",
-    verifier: "Zoink",
-    id: "109780665",
-    password: "Free Copy",
-    length: "1m 21s",
-    object: "63,179",
-    version: "2.206",
-    difficulty: "Extreme Demon",
-    rating: "Mythic",
-    youtube: "EztneTPp5CU",
-    bgColor: "#454545",
-    song: "Creo - Flow by CreoMusic (ID 1132447), Creo - Slow Down by CreoMusic (ID 800646)(intro)",
-    description: "GET OUT OF MY HEAD",
-    trivia: "Cbf blocker deleted, Hardest one mode level(only robot)"
-  },
   saryneverclearog: {
     name: "SARY NEVER CLEAR",
     creator: "Optic Sunflow",
@@ -117,6 +100,23 @@ const levels = {
     song: "Electroman Adventures by Waterflame (ingame song)",
     description: "GOOD LUCK",
     trivia: "Original version of SARY NEVER CLEAR, Current Top 1 of Unrated level"
+  },
+  nullscapes: {
+    name: "Nullscapes",
+    creator: "Kiba",
+    verifier: "Zoink",
+    id: "109780665",
+    password: "Free Copy",
+    length: "1m 21s",
+    object: "63,179",
+    version: "2.206",
+    difficulty: "Extreme Demon",
+    rating: "Mythic",
+    youtube: "EztneTPp5CU",
+    bgColor: "#454545",
+    song: "Creo - Flow by CreoMusic (ID 1132447), Creo - Slow Down by CreoMusic (ID 800646)(intro)",
+    description: "GET OUT OF MY HEAD",
+    trivia: "Cbf blocker deleted, Hardest one mode level(only robot)"
   },
   sakupencirclesunnerfed: {
     name: "Sakupen circles",
@@ -606,7 +606,7 @@ const levels = {
     difficulty: "Insane(Challenge)",
     rating: "Unrated",
     youtube: "Rz7Um6lxYYU",
-    bgColor: "#312d33",
+    bgColor: "#252126",
     song: "- by - (ID 96), Innocent Days by Hitomi (NONG)",
     description: "\"I said that Geass was the power of the king which would condemn you to a life of solitude. I think maybe that's not quite correct. Right, Lelouch?\"",
     trivia: "Hardest challenge?"
@@ -623,7 +623,7 @@ const levels = {
     difficulty: "Insane(Challenge)",
     rating: "Unrated",
     youtube: "nBmjrlmzUxE",
-    bgColor: "#363636",
+    bgColor: "#242222",
     song: "F-777 Dark Dragon Fire by F-777 (ID 96)",
     description: "-",
     trivia: "Former hardest challenge"
@@ -640,9 +640,26 @@ const levels = {
     difficulty: "Harder(Challenge)",
     rating: "Unrated",
     youtube: "iulSolHQcw0",
-    bgColor: "#482505",
+    bgColor: "#252126",
     song: "- by - (ID 42)",
     description: "The memories erased from a forgotten bunny... Verified by Sydno in 121.876 attempts. Dedicated to GemaYue and Frutos Secos.",
+    trivia: "-"
+  },
+  iiishonpointercrate: {
+    name: "3SH on Pointercrate",
+    creator: "tahabht(UFokinWotM8)",
+    verifier: "VovanPo",
+    id: "127534241",
+    password: "Free Copy",
+    length: "20s",
+    object: "7,134",
+    version: "2.207",
+    difficulty: "Insane(Challenge)",
+    rating: "Unrated",
+    youtube: "oY-rlZxhLUM",
+    bgColor: "#42022c",
+    song: "---Fury--- by Acid-Notation (ID 529291)",
+    description: "\"omw to buy 3kg of bread at the 3shop joot\" verified by VovanPo",
     trivia: "-"
   },
   vsc: {
@@ -657,9 +674,26 @@ const levels = {
     difficulty: "Insane(Challenge)",
     rating: "Unrated",
     youtube: "ewlMbTR-c_w",
-    bgColor: "#482505",
+    bgColor: "#483a05",
     song: "-Stalker- by Waterflame (ID 620959)",
     description: "Verified by Yossarian",
     trivia: "Former hardest challenge"
+  },
+  sakupendenouement: {
+    name: "Sakupen Denouement",
+    creator: "ad3usgmd(Nick24 and more)",
+    verifier: "ad3usgmd",
+    id: "133261698",
+    password: "Free Copy",
+    length: "52s",
+    object: "73,225",
+    version: "2.208",
+    difficulty: "Harder",
+    rating: "Unrated",
+    youtube: "7Plzij-GNw4",
+    bgColor: "#421c02",
+    song: "Iron God: Sakupen Hell Yes RMX by mr-jazzman (ID 360804)",
+    description: "-",
+    trivia: "Current top 1 of Denouement level"
   },
 };
