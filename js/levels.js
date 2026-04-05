@@ -694,6 +694,23 @@ const levels = {
     bgColor: "#421c02",
     song: "Iron God: Sakupen Hell Yes RMX by mr-jazzman (ID 360804)",
     description: "-",
-    trivia: "Current top 1 of Denouement level"
+    trivia: "Current Top 1 of Denouement level"
+  },
+  slaughterhouse: {
+    name: "Slaughterhouse",
+    creator: "IcEDCave and more",
+    verifier: "Doggie",
+    id: "27690100",
+    password: "147337",
+    length: "1m 10s",
+    object: "113,276",
+    version: "2.11",
+    difficulty: "Extreme Demon",
+    rating: "-",
+    youtube: "kpcF1-QAHQc",
+    bgColor: "#351112",
+    song: "Tennobyte - Fly Away by Tennobyte (ID 945695), Lost by CRIM3S (NONG)",
+    description: "THE GATES HAVE OPENED ONCE AGAIN.",
+    trivia: "Former Top 1"
   },
 };
