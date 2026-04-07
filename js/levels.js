@@ -46,7 +46,7 @@ const levels = {
     rating: "Epic",
     youtube: "x4Io4zkWVRw",
     bgColor: "#3d2400",
-    song: "Flamewall by Camellia (ID 10007151)",
+    song: "Flamewall by Camellia (ID 10007151(library)",
     description: "The ultimate endurance test, in the works since 2022. | Verified by Cuatrocientos in 221.703k attempts.",
     trivia: "Cbf blocker deleted"
   },
@@ -746,5 +746,22 @@ const levels = {
     song: "SLEEPING HUMMINGBIRD LONDON? Albee Remix ? by sawukalu164 (ID 1163222), Космос (∆XIUS LIИK Remix) by Sleeping Hummingbird (NONG)",
     description: "verified by Trick // verified by Zoink",
     trivia: "-"
+  },
+  chil: {
+    name: "CHIL",
+    creator: "McCoco",
+    verifier: "McCoco",
+    id: "114281093",
+    password: "Free Copy",
+    length: "1m 1s",
+    object: "69,032",
+    version: "2.207",
+    difficulty: "Extreme Demon",
+    rating: "Featured",
+    youtube: "DROMiCc2ZRM",
+    bgColor: "#cc0542",
+    song: "Xy76 by Camellia (ID 10007183(library)",
+    description: "Cold? Coolness? Chilly? Glacial? Nippy? Cool? Icy? Frosty? Chillax? Wintry? Freezing? Brisk? Chillness? Artic? Sharp? Chil whitout the L? Yeah",
+    trivia: "Solo level(Layout, Design, Verify)"
   },
 };
