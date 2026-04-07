@@ -713,4 +713,38 @@ const levels = {
     description: "THE GATES HAVE OPENED ONCE AGAIN.",
     trivia: "Former Top 1"
   },
+  unnerfedzodiac: {
+    name: "Unnerfed Zodiac",
+    creator: "xander556 and more",
+    verifier: "nebnoob",
+    id: "54441585",
+    password: "Free Copy",
+    length: "3m 14s",
+    object: "198,107",
+    version: "2.11",
+    difficulty: "Insane",
+    rating: "Unrated",
+    youtube: "3mvddPaNklg",
+    bgColor: "#870c6f",
+    song: "Creo - Sphere by CreoMusic (ID 739991)",
+    description: "x_x",
+    trivia: "Former Top 1 level's unnerfed version"
+  },
+  kocmoc: {
+    name: "KOCMOC",
+    creator: "cherryteam",
+    verifier: "Zoink",
+    id: "87665224",
+    password: "Free Copy",
+    length: "1m 28s",
+    object: "158,706",
+    version: "2.11",
+    difficulty: "Extreme Demon",
+    rating: "Epic",
+    youtube: "2CxE-UWCIG4",
+    bgColor: "#3e015c",
+    song: "SLEEPING HUMMINGBIRD LONDON? Albee Remix ? by sawukalu164 (ID 1163222), Космос (∆XIUS LIИK Remix) by Sleeping Hummingbird (NONG)",
+    description: "verified by Trick // verified by Zoink",
+    trivia: "-"
+  },
 };
