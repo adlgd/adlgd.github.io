@@ -728,7 +728,7 @@ const levels = {
     bgColor: "#870c6f",
     song: "Creo - Sphere by CreoMusic (ID 739991)",
     description: "x_x",
-    trivia: "Former Top 1 level's unnerfed version"
+    trivia: "Zodiac's unnerfed version"
   },
   kocmoc: {
     name: "KOCMOC",
