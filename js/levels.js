@@ -781,4 +781,21 @@ const levels = {
     description: "Collab with MaxPower GD and Nautilus2K. Fixed 2.1 version.",
     trivia: "Old impossible level(spam)"
   },
+  element111rg: {
+    name: "Element 111 Rg",
+    creator: "Compendium(Original-DarkX)",
+    verifier: "zoe",
+    id: "61775814",
+    password: "Free Copy",
+    length: "1m 37s",
+    object: "7,826",
+    version: "2.11(Original-1.6)",
+    difficulty: "Insane",
+    rating: "Unrated",
+    youtube: "ZcdiTGuIJ1k",
+    bgColor: "#222222",
+    song: "Time Machine by Waterflame (ingame song)",
+    description: "Theoretical version of Element 111 Rg by DarkX. Created and restored by Restoration Union.",
+    trivia: "Old impossible level"
+  },
 };
