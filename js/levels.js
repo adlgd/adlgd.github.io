@@ -815,4 +815,21 @@ const levels = {
     description: "poland",
     trivia: "Sakupen Circles theme level"
   },
+  sakupencircles: {
+    name: "Sakupen Circles",
+    creator: "Diamond and more",
+    verifier: "Diamond",
+    id: "76962930",
+    password: "Free Copy",
+    length: "51s",
+    object: "72,569",
+    version: "2.11",
+    difficulty: "Extreme Demon",
+    rating: "-",
+    youtube: "ofG2mJi9kEA",
+    bgColor: "#421c02",
+    song: "Iron God: Sakupen Hell Yes RMX by mr-jazzman (ID 360804)",
+    description: "By Nick24, DrCuber, korewa, Muffy450, Renn241, endevvor, Mzero, NineDice, GhostVandalf. Dedicated to Cursed",
+    trivia: "Former Top 1, Old impossible level(decorated and a bit nerfed"
+  },
 };
