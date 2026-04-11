@@ -93,7 +93,7 @@ const levels = {
     length: "1m 19s",
     object: "-",
     version: "1.6",
-    difficulty: "Insane",
+    difficulty: "Harder",
     rating: "Unrated",
     youtube: "Hpo77uVq75M",
     bgColor: "#054541",
