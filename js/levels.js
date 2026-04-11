@@ -582,7 +582,7 @@ const levels = {
     creator: "Sevant and IIIspitfireIII",
     verifier: "Sevant",
     id: "78149361",
-    password: "Copy Disabled(password is secret)",
+    password: "Free Copy",
     length: "1m 27s",
     object: "20,006",
     version: "2.11",
