@@ -783,7 +783,7 @@ const levels = {
   },
   element111rg: {
     name: "Element 111 Rg",
-    creator: "Compendium(Original-DarkX)",
+    creator: "Compendium(DarkX(Lost))",
     verifier: "zoe",
     id: "61775814",
     password: "Free Copy",
@@ -950,5 +950,22 @@ const levels = {
     song: "From Air by Lapse (ID 971534)",
     description: "Prepare for COLD",
     trivia: "cbf blocker deleted?"
+  },
+  trueinnards: {
+    name: "True Innards",
+    creator: "eandis(Kaito)",
+    verifier: "eandis",
+    id: "88216956",
+    password: "Free Copy",
+    length: "1m 25s",
+    object: "66,489",
+    version: "2.11",
+    difficulty: "Insane",
+    rating: "Unrated",
+    youtube: "K77leSnLP0Y",
+    bgColor: "#4f2723",
+    song: "Dark Matter Suite (1f1n1ty + LOrbSheddy Remix) by 1f1n1ty (ID 693041)",
+    description: "165~k attempts. (updated for ldm)",
+    trivia: "Unnerfed version of INNARDS"
   },
 };
