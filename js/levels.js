@@ -789,7 +789,7 @@ const levels = {
     password: "Free Copy",
     length: "1m 37s",
     object: "7,826",
-    version: "2.11(Original-1.6)",
+    version: "2.11(1.6)",
     difficulty: "Insane",
     rating: "Unrated",
     youtube: "ZcdiTGuIJ1k",
