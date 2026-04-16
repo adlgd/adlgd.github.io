@@ -356,6 +356,23 @@ const levels = {
     description: "7 years and you still play me?!",
     trivia: "Lost Top 1(underrated)"
   },
+  thebloop: {
+    name: "The Bloop",
+    creator: "murkkat and more",
+    verifier: "Zoink",
+    id: "135661111",
+    password: "Free Copy",
+    length: "1m 46s",
+    object: "108,897",
+    version: "2.208",
+    difficulty: "Insane",
+    rating: "Unrated",
+    youtube: "ROuXHSKEhHA",
+    bgColor: "#191970",
+    song: "larrynachos - We Are All Fucked (ID 890355)",
+    description: "\"Beware the path this monster takes\" - Ozlip // All assets used with permission // Inspired by Kenos, verified by Zoink.",
+    trivia: "-"
+  },
   spectre: {
     name: "Spectre",
     creator: "xander556 and more",
