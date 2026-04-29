@@ -109,6 +109,7 @@ const levels = {
   },
   saryneverclearog: {
     name: "SARY NEVER CLEAR",
+    publisher: "Optic Sunflow",
     creator: "Optic Sunflow",
     verifier: "Glowgmd",
     id: "609629",
@@ -126,6 +127,7 @@ const levels = {
   },
   nullscapes: {
     name: "Nullscapes",
+    publisher: "Kiba",
     creator: "Kiba",
     verifier: "Zoink",
     id: "109780665",
@@ -143,6 +145,7 @@ const levels = {
   },
   sakupencirclesunnerfed: {
     name: "Sakupen circles",
+    publisher: "Nick24",
     creator: "Nick24",
     verifier: "ad3us",
     id: "10887708",
@@ -160,7 +163,8 @@ const levels = {
   },
   quanteuseprocessing: {
     name: "Quanteuse processing",
-    creator: "Renn241 and Blankb",
+    publisher: "Renn241 and more",
+    creator: "Renn241, Blankb",
     verifier: "Zoink",
     id: "117692518",
     password: "Free Copy",
@@ -177,7 +181,8 @@ const levels = {
   },
   penumbral: {
     name: "Penumbral",
-    creator: "cherryteam",
+    publisher: "cherryteam",
+    creator: "nxhtrise, ego11",
     verifier: "w3rty",
     id: "134942736",
     password: "Free Copy",
@@ -194,7 +199,8 @@ const levels = {
   },
   boobawamba: {
     name: "BOOBAWAMBA",
-    creator: "Akunakunn and more",
+    publisher: "Akunakunn and more",
+    creator: "Akunakunn, TheLetterV, ygg24",
     verifier: "Eastshark",
     id: "110816181",
     password: "Free Copy",
@@ -211,7 +217,8 @@ const levels = {
   },
   everyend: {
     name: "Every End",
-    creator: "MindCap and more",
+    publisher: "MindCap and more",
+    creator: "MindCap(host, publisher), Pennutoh, LeftUnknown, Blitzer, Djoxy, npesta, Koreaqwer, KrmaL, StarkyTheSalad, Surv, lolwut7, Cobrablitz",
     verifier: "Hqmy",
     id: "116174063",
     password: "Free Copy",
@@ -228,6 +235,7 @@ const levels = {
   },
   andromeda: {
     name: "andromeda",
+    publisher: "Insxne97",
     creator: "Insxne97",
     verifier: "Taiago",
     id: "114283297",
@@ -245,7 +253,8 @@ const levels = {
   },
   subsumingvortex: {
     name: "Subsuming Vortex",
-    creator: "Cursed and more",
+    publisher: "Cursed and more",
+    creator: "Septagon7, Renn241",
     verifier: "Cursed",
     id: "127997391",
     password: "Free Copy",
@@ -262,7 +271,8 @@ const levels = {
   },
   vscx2: {
     name: "VSC x2",
-    creator: "Nev9(BoBoBoBoBoBoBo)",
+    publisher: "Nev9 and more",
+    creator: "Nev9(publisher), BoBoBoBoBoBoBo(original host), Woom",
     verifier: "Nev9",
     id: "125131485",
     password: "Free Copy",
@@ -279,7 +289,8 @@ const levels = {
   },
   anathema: {
     name: "Anathema",
-    creator: "Nikroplays and more",
+    publisher: "Nikroplays and more",
+    creator: "nikroplays(host, publisher), Iris, Zipixbox, Eternaswip, ItsHybrid)",
     verifier: "Whizkid05",
     id: "112313819",
     password: "Free Copy",
