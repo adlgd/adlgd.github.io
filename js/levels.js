@@ -92,7 +92,7 @@ const levels = {
   orbit: {
     name: "ORBIT",
     publisher: "MindCap and more",
-    creator: "MindCap, Pennutoh, iKrazo, Djoxy, Don, PegasusZ, Zephlin, ZrKiphal, knobbelboy, Wespdx, SmitN, Mels, HelpegasuS, Deadlox, Whippie37, VolteX, Epxa, Classic10, HugoLA, Th04, Empsea, Knots, TyphoonThunder, Goober_194, AllyTheFox, Apunch, AudieoVisual, spcreat, kekchungle44, HDanke",
+    creator: "MindCap(host, publisher), Pennutoh, iKrazo, Djoxy, Don, PegasusZ, Zephlin, ZrKiphal, knobbelboy, Wespdx, SmitN, Mels, HelpegasuS, Deadlox, Whippie37, VolteX, Epxa, Classic10, HugoLA, Th04, Empsea, Knots, TyphoonThunder, Goober_194, AllyTheFox, Apunch, AudieoVisual, spcreat, kekchungle44, HDanke",
     verifier: "Zoink",
     id: "133175713",
     password: "Free Copy",
@@ -163,7 +163,7 @@ const levels = {
   },
   quanteuseprocessing: {
     name: "Quanteuse processing",
-    publisher: "Renn241 and more",
+    publisher: "Renn241 and Blankb",
     creator: "Renn241, Blankb",
     verifier: "Zoink",
     id: "117692518",
