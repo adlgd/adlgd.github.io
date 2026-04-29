@@ -90,7 +90,7 @@
         .creator {
             position: absolute;
             display: block;
-            bottom: -40px;
+            top: -40px;
             left: 50%;
             transform: translateX(-50%);
         
@@ -142,6 +142,24 @@
         const key = params.get("level");
 
         const data = levels[key];
+
+        function formatCreators(str){
+            const list = str.split(",").map(v => v.trim());
+        
+            let result = "";
+        
+            for(let i = 0; i < list.length; i++){
+                result += list[i];
+        
+                if((i + 1) % 5 === 0){
+                    result += "<br>";
+                } else if(i !== list.length - 1){
+                    result += ", ";
+                }
+            }
+        
+            return result;
+        }
 
         if(data){
             document.getElementById("level-container").innerHTML = `
