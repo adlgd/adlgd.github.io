@@ -363,7 +363,7 @@ const levels = {
     name: "Silent clubstep",
     publisher: "TheRealSailent",
     creator: "TheRealSailent",
-    verifier: "zoe",
+    verifier: "paqoe",
     id: "4125776",
     password: "Copy Disabled",
     length: "1m 27s",
@@ -416,7 +416,7 @@ const levels = {
   lesopowal: {
     name: "Lesopowal",
     publisher: "cherryteam",
-    creator: "LvlByNoobs and more",
+    creator: "Inex(host), Eiriley(host), Finnon(host), Sfinktr, Timosha, Owly, Antonanton, Unity, Zabavno, K9syak, Matrisix, Sultar",
     verifier: "Bacon",
     id: "137886942",
     password: "Free Copy",
@@ -470,7 +470,7 @@ const levels = {
   abyssofdarkness: {
     name: "Abyss of Darkness",
     publisher: "Exen and more",
-    creator: "Exen(host, publisher), CDMusic, Megaskill, DigitalZero, Masterman, maxfs, Xolarzz, Waffle, ZmL(XDiamondX), GrenadeofTacos, Fenrrig, AlrexX, rynoxious, RealVet, GD Iris, GrayRain, celestia",
+    creator: "Exen(host, publisher), CDMusic, Megaskill, DigitalZero, Masterman, maxfs, Xolarzz, Waffle, ZmL, GrenadeofTacos, Fenrrig, AlrexX, rynoxious, RealVet, GD Iris, GrayRain, celestia",
     verifier: "Cursed",
     id: "49896559",
     password: "030422",
