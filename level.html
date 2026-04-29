@@ -45,6 +45,7 @@
         .card-inner {
             padding: 30px;
             border-radius: 16px;
+            overflow: hidden;
         }
 
         h1 {
@@ -114,7 +115,11 @@
         if(data){
             document.getElementById("level-container").innerHTML = `
 
-            <div class="card-inner" style="background: ${data.bgColor};">
+            <div class="card-inner" style="background: 
+                                                        linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+                                                        url('https://levelthumbs.prevter.me/thumbnail/${data.id}/small');
+                                                        background-size: cover;
+                                                        background-position: center;">
 
                 <h1>${data.name}</h1>
 
