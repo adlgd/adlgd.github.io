@@ -14,4 +14,10 @@ entries.forEach((entry, index) => {
         subRank.textContent = `#${ratedRank}`;
         ratedRank++;
     }
+    else if(status === "unrated"){
+        subRank.textContent = "Unrated";
+    }
+    else if(status === "challenge"){
+        subRank.textContent = "Challenge";
+    }
 });
