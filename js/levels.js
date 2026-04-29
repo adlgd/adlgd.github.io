@@ -2,7 +2,7 @@ const levels = {
   thinkingspaceii: {
     name: "Thinking Space II",
     publisher: "CairoX and more",
-    creator: "DrCuber(host), CairoX(host, publisher), NineDice (co-host), Jawis, korewa, Rin04, galofuf, HaydenDom, ADrone, V453C70M14, UFokinWotM8, RealVet, Hyperbola, NcaT, Crowlley, KugelBlitZ, Meox, Maxmur, TriForce, GamerKnight750, Meatius, DiamondSkull, ThunderDarkness",
+    creator: "DrCuber(host), CairoX(host, publisher), NineDice (host), Jawis, korewa, Rin04, galofuf, HaydenDom, ADrone, V453C70M14, UFokinWotM8, RealVet, Hyperbola, NcaT, Crowlley, KugelBlitZ, Meox, Maxmur, TriForce, GamerKnight750, Meatius, DiamondSkull, ThunderDarkness",
     verifier: "Zoink",
     id: "119544028",
     password: "Free Copy",
@@ -307,7 +307,8 @@ const levels = {
   },
   avernus: {
     name: "Avernus",
-    creator: "PockeWindFish and more",
+    publisher: "PockeWindFish and more",
+    creator: "BoBoBoBoBoBoBo(host), TriplasH, Zipixbox, kyhros, Woom, Zenntraa, El3cTr0, SyQual, Nidro, zDeadlox, GD Iris, Realvet, Looycat",
     verifier: "Zoink",
     id: "89496627",
     password: "30607",
@@ -324,7 +325,8 @@ const levels = {
   },
   aquamarine: {
     name: "Aquamarine",
-    creator: "sincos and more",
+    publisher: "sincos and more",
+    creator: "alex, taika, Cursed, scorpion, Renn241(redesign)",
     verifier: "seels",
     id: "77331805",
     password: "Free Copy",
@@ -341,6 +343,7 @@ const levels = {
   },
   ashleywavetrials: {
     name: "Ashley Wave Trials",
+    publisher: "OddMod",
     creator: "OddMod",
     verifier: "Zoink",
     id: "62912799",
@@ -358,6 +361,7 @@ const levels = {
   },
   silentclubstep: {
     name: "Silent clubstep",
+    publisher: "TheRealSailent",
     creator: "TheRealSailent",
     verifier: "zoe",
     id: "4125776",
@@ -375,7 +379,8 @@ const levels = {
   },
   thebloop: {
     name: "The Bloop",
-    creator: "murkkat and more",
+    publisher: "murkkat and more",
+    creator: "Mr. Git, Zackattack111, TripL, CharlieDanger, katzen, deltaaimee, SP4RKURCH1N, ToxicJohnson, eveee, Mr. Spread, super79, Spectical, C0mical, Billzer, Armani, TOP5, Yakub, kekchungle44, Cryonix6000, Xholeda",
     verifier: "Zoink",
     id: "135661111",
     password: "Free Copy",
@@ -392,7 +397,8 @@ const levels = {
   },
   spectre: {
     name: "Spectre",
-    creator: "xander556 and more",
+    publisher: "xander556 and more",
+    creator: "xander556, Atomic, dilw0nk, Kllnex, TruDee, Artaire, PokeChatt, Kake, Gizbro, Striked, TheShoot, BrianTheBurger, GD Iris, Skrypto, zDeadlox, Lightcell, Cersia, Geogamer12, Polli, LightningSL, nwolc, nyab, ZeroSR, CuLuC, Osiris GD, YakobNugget, HelpegasuS, EndLevel, ARtu, Zeronium, Moosh, Mercury, Icedcave, Dawnf4ll, Accelec, ZephiroX, Darwin, GrenadeofTacos, lillie",
     verifier: "PersonHuman42",
     id: "110815379",
     password: "Free Copy",
@@ -409,7 +415,8 @@ const levels = {
   },
   lesopowal: {
     name: "Lesopowal",
-    creator: "cherryteam",
+    publisher: "cherryteam",
+    creator: "LvlByNoobs and more",
     verifier: "Bacon",
     id: "137886942",
     password: "Free Copy",
@@ -426,7 +433,8 @@ const levels = {
   },
   acheron: {
     name: "Acheron",
-    creator: "ryamu and more",
+    publisher: "ryamu and more",
+    creator: "ryamu(host), Riot(host), icedcave(host), GrenadeofTacos, silver, Deadlox, Komp, AZuLer4, ewop, Metalface221, Cersia, LimeTime313, goob, Endlevel",
     verifier: "Zoink",
     id: "73667628",
     password: "Free Copy",
@@ -443,6 +451,7 @@ const levels = {
   },
   menace: {
     name: "Menace",
+    publisher: "Arraegen",
     creator: "Arraegen",
     verifier: "Whizkid05",
     id: "107805281",
@@ -460,7 +469,8 @@ const levels = {
   },
   abyssofdarkness: {
     name: "Abyss of Darkness",
-    creator: "Exen and more",
+    publisher: "Exen and more",
+    creator: "Exen(host, publisher), CDMusic, Megaskill, DigitalZero, Masterman, maxfs, Xolarzz, Waffle, ZmL(XDiamondX), GrenadeofTacos, Fenrrig, AlrexX, rynoxious, RealVet, GD Iris, GrayRain, celestia",
     verifier: "Cursed",
     id: "49896559",
     password: "030422",
@@ -477,7 +487,8 @@ const levels = {
   },
   defeatedcircles: {
     name: "Defeated Circles",
-    creator: "GXQ and more",
+    publisher: "GXQ and more",
+    creator: "GXQ(host, publisher), muriday(host), lupo, Fluxit, Cyanide, pootys1337, SlendStone",
     verifier: "Zoink",
     id: "120012581",
     password: "Free Copy",
@@ -494,6 +505,7 @@ const levels = {
   },
   subterminalpoint: {
     name: "Subterminal Point",
+    publisher: "SyQual",
     creator: "SyQual",
     verifier: "PoCle",
     id: "113599729",
@@ -511,7 +523,8 @@ const levels = {
   },
   tunnelofdespair: {
     name: "Tunnel of Despair",
-    creator: "Exen and ImMaxX1",
+    publisher: "Exen and ImMaxX1",
+    creator: "Exen(publisher), ImMaxX1",
     verifier: "Zoink",
     id: "91351939",
     password: "Free Copy",
@@ -528,6 +541,7 @@ const levels = {
   },
   kyouki: {
     name: "Kyouki",
+    publisher: "Demishio",
     creator: "Demishio",
     verifier: "Demishio",
     id: "86018142",
@@ -545,7 +559,8 @@ const levels = {
   },
   oldaod: {
     name: "Old AoD",
-    creator: "Exen and more",
+    publisher: "Exen and more",
+    creator: "Exen(host, publisher), Siester, MegaSkill, Xerocopia, MasterMan, DiamondBlade, xDiamondx, fenrrig, SieSTer, AlexS2003, GrayRain",
     verifier: "Dils thik",
     id: "76680844",
     password: "Free Copy",
@@ -562,7 +577,8 @@ const levels = {
   },
   swislithium: {
     name: "SWI Slithium",
-    creator: "Hipo and more(Slithium)",
+    publisher: "Hipo and more",
+    creator: "lSunix, Riot, Slithium, CyClic(original)",
     verifier: "Hipo",
     id: "129774598",
     password: "Free Copy",
@@ -579,6 +595,7 @@ const levels = {
   },
   re: {
     name: "Re",
+    publisher: "torn49",
     creator: "torn49",
     verifier: "torn49",
     id: "126279500",
@@ -596,6 +613,7 @@ const levels = {
   },
   illusionofhell: {
     name: "Illusion of Hell",
+    publisher: "Exen",
     creator: "Exen",
     verifier: "OverGD",
     id: "38230726",
@@ -613,7 +631,8 @@ const levels = {
   },
   voltage: {
     name: "Voltage",
-    creator: "ThePurgatory",
+    publisher: "ThePurgatory",
+    creator: "Phantom7Ks(host), Lagnugg, zof, Xatz, xenith, Boshet, Heptanone, Vendas, Budapest, Sysafk, millan, Kgnstn, Rubrum, Silsa, Acomet, Lapatatatom, Choms",
     verifier: "maybee",
     id: "131599104",
     password: "Free Copy",
@@ -630,7 +649,8 @@ const levels = {
   },
   thinkingspaceiiog: {
     name: "Thinking Space II",
-    creator: "CoCyMain and more",
+    publisher: "CoCyMain and more",
+    creator: "Rin04, Jawis, Xol, HaydenDom, Erina, Aris, UFokinWotM8, Helbrein, Hyperbola, NcaT, SwordK, KugelBlitZ, domi, maxmur, Verunya, MeatiusGaming, RealVet",
     verifier: "Zeronium",
     id: "132854166",
     password: "Free Copy",
@@ -647,7 +667,8 @@ const levels = {
   },
   unnerfeddiabolicclubstep: {
     name: "Unnerfed Diabolic Cl",
-    creator: "Sevant and IIIspitfireIII",
+    publisher: "Sevant and IIIspitfireIII",
+    creator: "Sevant(publisher), IIIspitfireIII",
     verifier: "Sevant",
     id: "78149361",
     password: "Free Copy",
@@ -664,7 +685,8 @@ const levels = {
   },
   basedafterbased: {
     name: "Based After Based",
-    creator: "Akunakunn and more",
+    publisher: "Akunakunn and more",
+    creator: "Akunakunn(host, publisher), DashyGTC, Bedrock, Etheriall, Akunakunn, PastelPink, dshifter7, HarshHere, Eyeless, Jack", 
     verifier: "DiamondSplash",
     id: "110534288",
     password: "Free Copy",
