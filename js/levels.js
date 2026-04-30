@@ -233,7 +233,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "-",
     youtube: "mk3TDemdkC0",
-    bgColor: "#220242",
     song: "omnipresent (AIM 2023) by WakerLink (ID 1216127), SR20DET by BIksmiith (NONG)",
     description: "verified by Taiago // playtested by guillexprex52, kywy, fusion425, swiborg, & others // ty to Xanify, Nemo, Grid, Triplash, Blayne, and more!",
     trivia: "-"
@@ -251,7 +250,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "Featured",
     youtube: "0eYG1ogJpIQ",
-    bgColor: "#024231",
     song: "NK - Sine Wavs by Rukkus (ID 512976)",
     description: "The hardest nine circles level... at the time // By SeptaGon7 and Renn241",
     trivia: "Old impossible level(Unnerfed)"
@@ -269,7 +267,6 @@ const levels = {
     difficulty: "Insane(Challenge)",
     rating: "Unrated",
     youtube: "92Msl_EI-5E",
-    bgColor: "#423b02",
     song: "-Stalker- by Waterflame (ID 620959)",
     description: "173 completions, 1247822 attempts! verified by me",
     trivia: "A double VSC"
@@ -287,7 +284,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "Epic",
     youtube: "_uKwmjHmySI",
-    bgColor: "#42022c",
     song: "I Cant Fix You feat. Crusher-P by TheLivingTombstone (ID 717444)",
     description: "After 9 long years, The Dedication Series finally comes to a close. Dedicated to everyone who has supported me along the way. Verified by Whizkid05.",
     trivia: "-"
@@ -305,7 +301,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "-",
     youtube: "16Zh8jssanc",
-    bgColor: "#421802",
     song: "F-777 Dark Dragon Fire by F-777 (ID 91656)",
     description: "By Bo & Kyhros - https://discord.gg/YcNkfHMJGv",
     trivia: "Former Top 1"
@@ -323,7 +318,6 @@ const levels = {
     difficulty: "Insane",
     rating: "Unrated",
     youtube: "Q__EnRojGt4",
-    bgColor: "#020242",
     song: "cYsmix - Eden by cysmix (ID 718319)",
     description: "Originally made by me, redecorated by Renn241, with help from Cursed, Scorpion, and Taika. Very very special thanks to Flora4821. Enjoy the underwater trial :)",
     trivia: "The decoration was updated on August 2025"
@@ -341,7 +335,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "Featured",
     youtube: "aTxt76U3e2Q",
-    bgColor: "#971538",
     song: "Dr. Finkelfrackens Cure by bossfightofficial (ID 383158)",
     description: "My first time decorating like this!! ^^ Verified by Zoink",
     trivia: "Originally unnerfed, later modified by the creator"
@@ -359,7 +352,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "-",
     youtube: "GR4OMkS3SN8",
-    bgColor: "#020024",
     song: "dj-nate - Clubstep (ingame song)",
     description: "7 years and you still play me?!",
     trivia: "Lost Top 1(underrated)"
@@ -377,7 +369,6 @@ const levels = {
     difficulty: "Insane",
     rating: "Unrated",
     youtube: "ROuXHSKEhHA",
-    bgColor: "#191970",
     song: "larrynachos - We Are All Fucked (ID 890355)",
     description: "\"Beware the path this monster takes\" - Ozlip // All assets used with permission // Inspired by Kenos, verified by Zoink.",
     trivia: "-"
@@ -395,7 +386,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "Epic",
     youtube: "MzsSLKJrLSI",
-    bgColor: "#b545ff",
     song: "Creo - In Circles by CreoMusic (ID 786863)",
     description: "Extreme Demon Megacollab made by 40 amazing creators! Hosted by me. Verified by PersonHuman42 in 106,017 attempts.",
     trivia: "-"
@@ -413,7 +403,6 @@ const levels = {
     difficulty: "Insane",
     rating: "Unrated",
     youtube: "RTXnFHkGO_g",
-    bgColor: "#574f3e",
     song: "Rising Sun by NemesisTheory (ID 480220)",
     description: "Verified by Bacon // Hosted by LvlByNoobs",
     trivia: "-"
@@ -431,7 +420,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "Featured",
     youtube: "sBKR6aUorzA",
-    bgColor: "#1b0304",
     song: "{dj-N} Thermodynamix by dj-Nate (ID 770520)",
     description: "verified by zoink. \"get ricch or die trying\" -50 cent",
     trivia: "Former Top 1"
@@ -449,7 +437,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "Epic",
     youtube: "nnkgghxxsEE",
-    bgColor: "#825c03",
     song: "Menace by TheRealMannyHeffley (ID 1304920)",
     description: "\"The only truth in this world is that there is no truth.\" Verified by Whizkid. Level and song by me.",
     trivia: "Solo level(Song, Layout, Design)"
@@ -467,7 +454,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "-",
     youtube: "ejJkpqcMMCY",
-    bgColor: "#3d0d0d",
     song: "Death Note Dubstep [SB] by ShadowBeatzInc (ID 513539)",
     description: "-",
     trivia: "Former Top 1"
@@ -485,7 +471,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "-",
     youtube: "nU5AQPzd2YA",
-    bgColor: "#60606e",
     song: "It Passed You By by SlendStone (ID 1234816), When You Find Me (Bonus Track) by plenka (NONG)",
     description: "Defeated. (Verified by Zoink)",
     trivia: "Remake version of old impossible level"
@@ -503,7 +488,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "Featured",
     youtube: "h2wmRMgACH4",
-    bgColor: "#00465d",
     song: "re:カレント by Miyolophone (ID 783614)",
     description: "Also inspired by Maplestory. Verified by PoCle",
     trivia: "-"
@@ -521,7 +505,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "Featured",
     youtube: "LpS4JREhW98",
-    bgColor: "#2c0000",
     song: "Silent Hill (Dubstep) by Jewelz123 (ID 386900)",
     description: "Tunnel of Despair. Gameplay by Exen, Deco by ImMaxX1, Verified by Zoink.",
     trivia: "-"
@@ -539,7 +522,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "Featured",
     youtube: "KDa5c0CJTHs",
-    bgColor: "#39005e",
     song: "Creo - Crazy by CreoMusic (ID 905108)",
     description: "This is Crazy.",
     trivia: "Solo level(layout, design, verify)"
@@ -557,7 +539,6 @@ const levels = {
     difficulty: "Insane",
     rating: "Unrated",
     youtube: "RWBEfS4mLbw",
-    bgColor: "#400501",
     song: "Death Note Dubstep [SB] by ShadowBeatzInc (ID 513539)",
     description: "-",
     trivia: "Old version of Abyss of Darkness"
@@ -575,7 +556,6 @@ const levels = {
     difficulty: "Insane",
     rating: "Unrated",
     youtube: "av5D0_M6hso",
-    bgColor: "#002d80",
     song: "F-777 - Sonic Blaster by F-777 (ID 574484)",
     description: "Slithium's version of Sonic Wave Infinity, cancelled due to Xanii's verification. Verified by Hipo (me, not credited in the endscreen to stay faithful to the original copy).",
     trivia: "Buffed version(old impossible) of Sonic Wave Infinity"
@@ -748,7 +728,7 @@ const levels = {
     youtube: "7Plzij-GNw4",
     song: "Iron God: Sakupen Hell Yes RMX by mr-jazzman (ID 360804)",
     description: "-",
-    trivia: "Current Top 1 of Denouement level"
+    trivia: "Current Top 1 of Denouement level, Denouement + Sakupen Circles"
   },
   slaughterhouse: {
     name: "Slaughterhouse",
@@ -814,7 +794,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "Epic",
     youtube: "U19vmpenb9g",
-    bgColor: "#944386",
     song: "Supernatural by zenkusaa (ID 1172938)",
     description: "Dedicated to my friends especially novi, ziglon Special thanks to Sonmok / Verified by 9i",
     trivia: "No spikes"
@@ -832,7 +811,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "Featured",
     youtube: "DROMiCc2ZRM",
-    bgColor: "#99003e",
     song: "Xy76 by Camellia (ID 10007183(library))",
     description: "Cold? Coolness? Chilly? Glacial? Nippy? Cool? Icy? Frosty? Chillax? Wintry? Freezing? Brisk? Chillness? Artic? Sharp? Chil without the L? Yeah",
     trivia: "Solo level(Layout, Design, Verify)"
@@ -850,16 +828,32 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "Featured",
     youtube: "wBRvBN9tmlc",
-    bgColor: "#593606",
     song: "{dj-N} Call the PoPo! by dj-Nate (ID 485224)",
     description: "Electricity, electrify, zaaap, electrons | Hosted by Phantom7Ks | Verified by Maybee | Gameplay by Lagnugg | 16-01-26 | #ThePurgatorySupremacy",
     trivia: "-"
+  },
+  tidalmoment: {
+    name: "Tidalmoment",
+    publisher: "yunhr and more",
+    creator: "yunhr(publisher, copy-paste), Synactive GD(original), pocket(original), OniLink(original)",
+    verifier: "yunhr",
+    id: "132987162",
+    password: "Free Copy",
+    length: "49s",
+    object: "52,795",
+    version: "2.208",
+    difficulty: "Insane",
+    rating: "Unrated",
+    youtube: "_fhTHmXNhZg",
+    song: "Glory by FyremanMusic (ID 714579), (Tidal Wave(Shiawase VIP rmx) by RunoNG (ID 1266014), Shiawase (VIP) by Dion Timmer (ID NONG))",
+    description: "I beat Tidalmoment",
+    trivia: "Denouement + Tidal Wave 21~43%"
   },
   element111rg: {
     name: "Element 111 Rg",
     publisher: "Compendium",
     creator: "DarkX(Lost), Restoration Union",
-    verifier: "zoe",
+    verifier: "paqoe",
     id: "61775814",
     password: "Free Copy",
     length: "1m 37s",
@@ -893,7 +887,8 @@ const levels = {
   },
   sakupencircles: {
     name: "Sakupen Circles",
-    creator: "Diamond(Nick24 and more)",
+    publisher: "Diamond and more",
+    creator: "Nick24(original), DrCuber, Korewa, Renn241, Muffy450, endevvor, Mzero, NineDice, GhostVandalf",
     verifier: "Diamond",
     id: "76962930",
     password: "Free Copy",
@@ -910,7 +905,8 @@ const levels = {
   },
   exenslimit: {
     name: "Exens limit",
-    creator: "Cursed(Nick24 and Zylenox)",
+    publisher: "Cursed and more",
+    creator: "Nick24(original), Zylenox",
     verifier: "Cursed",
     id: "91675238",
     password: "Free Copy",
@@ -927,7 +923,8 @@ const levels = {
   },
   wokecircles: {
     name: "WOKE circles",
-    creator: "PPPixel(Nick24 and more)",
+    publisher: "PPPixel and more",
+    creator: "Nick24(original), PPPixel",
     verifier: "PPPixel",
     id: "88318424",
     password: "Free Copy",
@@ -944,7 +941,8 @@ const levels = {
   },
   deimositshybrid: {
     name: "Deimos",
-    creator: "ItsHybrid and more",
+    publisher: "ItsHybrid and more",
+    creator: "ItsHybrid, Pocke, Wespdx, Isane, Max, Iris, Polli, Enixy, Cersia, Skele, Platnuu, Loltad, Killa, Yonaka, Smokes, Tygresek, Juhou, Licen, Lieb, PokeChatt, River, Alkali, Antares, Zipixbox, GrenadeOfTacos, Parallax, End, Ryamu",
     verifier: "Doggie",
     id: "93091893",
     password: "Free Copy",
@@ -961,6 +959,7 @@ const levels = {
   },
   thelightningrod: {
     name: "The Lightning Rod",
+    publisher: "Lavatrex",
     creator: "Lavatrex",
     verifier: "Lavatrex",
     id: "93917076",
