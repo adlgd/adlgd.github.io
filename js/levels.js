@@ -182,7 +182,7 @@ const levels = {
   penumbral: {
     name: "Penumbral",
     publisher: "cherryteam",
-    creator: "nxhtrise, ego11",
+    creator: "nxhtrise, ego11, Hexy",
     verifier: "w3rty",
     id: "134942736",
     password: "Free Copy",
@@ -200,7 +200,7 @@ const levels = {
   boobawamba: {
     name: "BOOBAWAMBA",
     publisher: "Akunakunn and more",
-    creator: "Akunakunn, TheLetterV, ygg24",
+    creator: "Akunakunn(publisher), TheLetterV, ygg24",
     verifier: "Eastshark",
     id: "110816181",
     password: "Free Copy",
@@ -212,7 +212,7 @@ const levels = {
     youtube: "20fYiqLAo_E",
     bgColor: "#253522",
     song: "Portal To The Other Side (feat. Hatsune Miku) by nandinanubis (ID 941913)",
-    description: "BOOBAWAMBA is equal to {10, 100 [1[1\1\12-2] 1 [2\2-2]2]2} using the array of operator and BEAF it has boobol entries. This is my best level and it has been verified by EastShark",
+    description: "BOOBAWAMBA is equal to {10, 100 [1[1\\1\\12-2] 1 [2\\2-2]2]2} using the array of operator and BEAF it has boobol entries. This is my best level and it has been verified by EastShark",
     trivia: "Hardest memory level"
   },
   everyend: {
@@ -434,7 +434,7 @@ const levels = {
   acheron: {
     name: "Acheron",
     publisher: "ryamu and more",
-    creator: "ryamu(host), Riot(host), icedcave(host), GrenadeofTacos, silver, Deadlox, Komp, AZuLer4, ewop, Metalface221, Cersia, LimeTime313, goob, Endlevel",
+    creator: "ryamu(host, publisher), Riot(host), icedcave(host), GrenadeofTacos, silver, Deadlox, Komp, AZuLer4, ewop, Metalface221, Cersia, LimeTime313, goob, Endlevel",
     verifier: "Zoink",
     id: "73667628",
     password: "Free Copy",
@@ -629,24 +629,6 @@ const levels = {
     description: "-",
     trivia: "Former hardest challenge"
   },
-  voltage: {
-    name: "Voltage",
-    publisher: "ThePurgatory",
-    creator: "Phantom7Ks(host), Lagnugg, zof, Xatz, xenith, Boshet, Heptanone, Vendas, Budapest, Sysafk, millan, Kgnstn, Rubrum, Silsa, Acomet, Lapatatatom, Choms",
-    verifier: "maybee",
-    id: "131599104",
-    password: "Free Copy",
-    length: "1m 8s",
-    object: "65,757",
-    version: "2.207",
-    difficulty: "Extreme Demon",
-    rating: "Featured",
-    youtube: "wBRvBN9tmlc",
-    bgColor: "#593606",
-    song: "{dj-N} Call the PoPo! by dj-Nate (ID 485224)",
-    description: "Electricity, electrify, zaaap, electrons | Hosted by Phantom7Ks | Verified by Maybee | Gameplay by Lagnugg | 16-01-26 | #ThePurgatorySupremacy",
-    trivia: "-"
-  },
   thinkingspaceiiog: {
     name: "Thinking Space II",
     publisher: "CoCyMain and more",
@@ -701,25 +683,27 @@ const levels = {
     description: "Welcome! This is a top 10 extreme demon with no spikes, no saws, no slopes, no waves, only duals and only 1x speed. Only verified by DiamondSplash aswell! Hope you all beat it too!",
     trivia: "Only dual & 1x speed, no spikes"
   },
-  zorin: {
-    name: "zorin",
-    creator: "SnowEye(art by many people)",
-    verifier: "9i",
-    id: "134541844",
+  demotivationdance: {
+    name: "Demotivation Dance",
+    publisher: "Cursed and more",
+    creator: "Cursed(publisher), Nick24(original), Renn241", 
+    verifier: "DiamondSplash",
+    id: "110534288",
     password: "Free Copy",
-    length: "2m 56s",
-    object: "139,932",
-    version: "2.208",
+    length: "1m 28s",
+    object: "99,072",
+    version: "2.206",
     difficulty: "Extreme Demon",
-    rating: "Epic",
-    youtube: "U19vmpenb9g",
-    bgColor: "#944386",
-    song: "Supernatural by zenkusaa (ID 1172938)",
-    description: "Dedicated to my friends especially novi, ziglon Special thanks to Sonmok / Verified by 9i",
-    trivia: "No spikes"
+    rating: "Featured",
+    youtube: "yQBFyUvB3lY",
+    bgColor: "#630085",
+    song: "Base After Base by DJVI (ID 404997)",
+    description: "Welcome! This is a top 10 extreme demon with no spikes, no saws, no slopes, no waves, only duals and only 1x speed. Only verified by DiamondSplash aswell! Hope you all beat it too!",
+    trivia: "Only dual & 1x speed, no spikes"
   },
   forgottenmaiden: {
     name: "Forgotten Maiden",
+    publisher: "ErinaLaSacarina",
     creator: "ErinaLaSacarina",
     verifier: "sydno",
     id: "130217575",
@@ -737,7 +721,8 @@ const levels = {
   },
   iiishonpointercrate: {
     name: "3SH on Pointercrate",
-    creator: "tahabht(UFokinWotM8)",
+    publisher: "tahabht(UFokinWotM8)",
+    creator: "tahabht(publisher), UFokinWotM8(original)",
     verifier: "VovanPo",
     id: "127534241",
     password: "Free Copy",
@@ -754,7 +739,8 @@ const levels = {
   },
   vsc: {
     name: "VSC",
-    creator: "BoBoBoBoBoBoBo and Woom",
+    publisher: "BoBoBoBoBoBoBo and Woom",
+    creator: "BoBoBoBoBoBoBo(publisher), Woom",
     verifier: "Yossarian",
     id: "60805571",
     password: "Free Copy",
@@ -771,7 +757,8 @@ const levels = {
   },
   sakupendenouement: {
     name: "Sakupen Denouement",
-    creator: "ad3usgmd(Nick24 and more)",
+    publisher: "ad3usgmd and more",
+    creator: "ad3usgmd(publisher), Nick24(original)",
     verifier: "ad3usgmd",
     id: "133261698",
     password: "Free Copy",
@@ -788,7 +775,8 @@ const levels = {
   },
   slaughterhouse: {
     name: "Slaughterhouse",
-    creator: "IcEDCave and more",
+    publisher: "IcEDCave and more",
+    creator: "IcEDCave(host, publisher), Endlevel, Brittank88, DrCuber, River, CDMusic, Iris",
     verifier: "Doggie",
     id: "27690100",
     password: "147337",
@@ -805,7 +793,8 @@ const levels = {
   },
   unnerfedzodiac: {
     name: "Unnerfed Zodiac",
-    creator: "xander556 and more",
+    publisher: "xander556 and more",
+    creator: "RicoLP(host), Rustam, YakobNugget, Bianox, DreamEater, Dudex, Shocksidian, Osiris GD, Juhou, Aquatias, Samifying, TMNGaming, Failure444, Marwec, Pennutoh, SilmJim, LeocreatorX, Enlex, Onnikonna, Dawnf4ll, TheTactiq",
     verifier: "nebnoob",
     id: "54441585",
     password: "Free Copy",
@@ -837,6 +826,23 @@ const levels = {
     description: "verified by Trick // verified by Zoink",
     trivia: "-"
   },
+  zorin: {
+    name: "zorin",
+    creator: "SnowEye(art by many people)",
+    verifier: "9i",
+    id: "134541844",
+    password: "Free Copy",
+    length: "2m 56s",
+    object: "139,932",
+    version: "2.208",
+    difficulty: "Extreme Demon",
+    rating: "Epic",
+    youtube: "U19vmpenb9g",
+    bgColor: "#944386",
+    song: "Supernatural by zenkusaa (ID 1172938)",
+    description: "Dedicated to my friends especially novi, ziglon Special thanks to Sonmok / Verified by 9i",
+    trivia: "No spikes"
+  },
   chil: {
     name: "CHIL",
     creator: "McCoco",
@@ -853,6 +859,24 @@ const levels = {
     song: "Xy76 by Camellia (ID 10007183(library))",
     description: "Cold? Coolness? Chilly? Glacial? Nippy? Cool? Icy? Frosty? Chillax? Wintry? Freezing? Brisk? Chillness? Artic? Sharp? Chil without the L? Yeah",
     trivia: "Solo level(Layout, Design, Verify)"
+  },
+  voltage: {
+    name: "Voltage",
+    publisher: "ThePurgatory",
+    creator: "Phantom7Ks(host), Lagnugg, zof, Xatz, xenith, Boshet, Heptanone, Vendas, Budapest, Sysafk, millan, Kgnstn, Rubrum, Silsa, Acomet, Lapatatatom, Choms",
+    verifier: "maybee",
+    id: "131599104",
+    password: "Free Copy",
+    length: "1m 8s",
+    object: "65,757",
+    version: "2.207",
+    difficulty: "Extreme Demon",
+    rating: "Featured",
+    youtube: "wBRvBN9tmlc",
+    bgColor: "#593606",
+    song: "{dj-N} Call the PoPo! by dj-Nate (ID 485224)",
+    description: "Electricity, electrify, zaaap, electrons | Hosted by Phantom7Ks | Verified by Maybee | Gameplay by Lagnugg | 16-01-26 | #ThePurgatorySupremacy",
+    trivia: "-"
   },
   element111rg: {
     name: "Element 111 Rg",
