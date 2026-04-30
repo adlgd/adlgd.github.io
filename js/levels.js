@@ -2,7 +2,7 @@ const levels = {
   thinkingspaceii: {
     name: "Thinking Space II",
     publisher: "CairoX and more",
-    creator: "DrCuber(host), CairoX(host, publisher), NineDice (host), Jawis, korewa, Rin04, galofuf, HaydenDom, ADrone, V453C70M14, UFokinWotM8, RealVet, Hyperbola, NcaT, Crowlley, KugelBlitZ, Meox, Maxmur, TriForce, GamerKnight750, Meatius, DiamondSkull, ThunderDarkness",
+    creator: "DrCuber(host), CairoX(host, publisher), NineDice(host), Jawis, korewa, Rin04, galofuf, HaydenDom, ADrone, V453C70M14, UFokinWotM8, RealVet, Hyperbola, NcaT, Crowlley, KugelBlitZ, Meox, Maxmur, TriForce, GamerKnight750, Meatius, DiamondSkull, ThunderDarkness",
     verifier: "Zoink",
     id: "119544028",
     password: "Free Copy",
@@ -259,7 +259,7 @@ const levels = {
   vscx2: {
     name: "VSC x2",
     publisher: "Nev9 and more",
-    creator: "Nev9(publisher), BoBoBoBoBoBoBo(original host), Woom",
+    creator: "Nev9(publisher, copy-paste), BoBoBoBoBoBoBo(original host), Woom",
     verifier: "Nev9",
     id: "125131485",
     password: "Free Copy",
@@ -565,7 +565,7 @@ const levels = {
   swislithium: {
     name: "SWI Slithium",
     publisher: "Hipo and more",
-    creator: "lSunix, Riot, Slithium, CyClic(original)",
+    creator: "lSunix, Riot, Slithium(buff), CyClic(original)",
     verifier: "Hipo",
     id: "129774598",
     password: "Free Copy",
@@ -668,7 +668,7 @@ const levels = {
   demotivationdance: {
     name: "Demotivation Dance",
     publisher: "Cursed and more",
-    creator: "Cursed(publisher), Nick24(original), Renn241", 
+    creator: "Cursed(publisher, copy-paste), Nick24(original), Renn241", 
     verifier: "Cursed",
     id: "90526490",
     password: "Free Copy",
@@ -702,7 +702,7 @@ const levels = {
   iiishonpointercrate: {
     name: "3SH on Pointercrate",
     publisher: "tahabht and UFokinWotM8",
-    creator: "tahabht(publisher), UFokinWotM8(original)",
+    creator: "tahabht(publisher, buff), UFokinWotM8(original)",
     verifier: "VovanPo",
     id: "127534241",
     password: "Free Copy",
@@ -803,7 +803,8 @@ const levels = {
   },
   zorin: {
     name: "zorin",
-    creator: "SnowEye(art by many people)",
+    publisher: "SnowEye",
+    creator: "SnowEye, sonmok(art), Spacter(art), HolickGD(art), shiho(art)",
     verifier: "9i",
     id: "134541844",
     password: "Free Copy",
@@ -820,6 +821,7 @@ const levels = {
   },
   chil: {
     name: "CHIL",
+    publisher: "McCoco",
     creator: "McCoco",
     verifier: "McCoco",
     id: "114281093",
@@ -855,7 +857,8 @@ const levels = {
   },
   element111rg: {
     name: "Element 111 Rg",
-    creator: "Compendium(DarkX(Lost), Restoration Union)",
+    publisher: "Compendium",
+    creator: "DarkX(Lost), Restoration Union",
     verifier: "zoe",
     id: "61775814",
     password: "Free Copy",
@@ -872,6 +875,7 @@ const levels = {
   },
   wockycircles: {
     name: "wocky circles",
+    publisher: "kywy",
     creator: "kywy",
     verifier: "ROZE",
     id: "100420930",
