@@ -682,7 +682,7 @@ const levels = {
   iiishonpointercrate: {
     name: "3SH on Pointercrate",
     publisher: "tahabht and UFokinWotM8",
-    creator: "tahabht(publisher, buff), UFokinWotM8(original)",
+    creator: "tahabht(publisher, copy-paste), UFokinWotM8(original)",
     verifier: "VovanPo",
     id: "127534241",
     password: "Free Copy",
@@ -715,8 +715,8 @@ const levels = {
   },
   sakupendenouement: {
     name: "Sakupen Denouement",
-    publisher: "ad3usgmd and more",
-    creator: "ad3usgmd(publisher), Nick24(original)",
+    publisher: "ad3us and more",
+    creator: "ad3us(publisher), Nick24(original)",
     verifier: "ad3usgmd",
     id: "133261698",
     password: "Free Copy",
@@ -784,7 +784,7 @@ const levels = {
   zorin: {
     name: "zorin",
     publisher: "SnowEye",
-    creator: "SnowEye, sonmok(art), Spacter(art), HolickGD(art), shiho(art)",
+    creator: "SnowEye, sonmok(art), Spacter(art), HolickGD(art), Shiho(art)",
     verifier: "9i",
     id: "134541844",
     password: "Free Copy",
@@ -977,7 +977,8 @@ const levels = {
   },
   sightlesssandstorm: {
     name: "Sightless Sandstorm",
-    creator: "Bradenbowl(crohn44)",
+    publisher: "Bradenbowl and more",
+    creator: "Bradenbowl(publisher, transparent), crohn44(original)",
     verifier: "Bradenbowl",
     id: "68904235",
     password: "Free Copy",
@@ -994,7 +995,8 @@ const levels = {
   },
   blindblizzard: {
     name: "Blind Blizzard",
-    creator: "Bradenbowl(KrmaL)",
+    publisher: "Bradenbowl and more",
+    creator: "Bradenbowl(publisher, transparent), KrmaL(original)",
     verifier: "Bradenbowl",
     id: "65679976",
     password: "Free Copy",
@@ -1011,7 +1013,8 @@ const levels = {
   },
   kosetsu: {
     name: "KOSETSU",
-    creator: "fwwe and more",
+    publisher: "fwwe and more",
+    creator: "fwwe(host, publisher), Arct, Alekszz, GamerKnight750, ADrone, Bli, Motheye, Halo, Pbreaker, Sacredbloom92",
     verifier: "Taiago",
     id: "109439644",
     password: "Free Copy",
@@ -1028,7 +1031,8 @@ const levels = {
   },
   trueinnards: {
     name: "True Innards",
-    creator: "eandis(Kaito)",
+    publisher: "eandis and more",
+    creator: "Kaito(original)",
     verifier: "eandis",
     id: "88216956",
     password: "Free Copy",
@@ -1045,7 +1049,8 @@ const levels = {
   },
   unnerfedyatagarasu: {
     name: "Unnerfed Yatagarasu",
-    creator: "Compendium(TrusTa and more)",
+    publisher: "Compendium and more",
+    creator: "TrusTa(publisher), ViPriN(host), AncientAnubis, Jeyzor, WOOGI1411, Findexi, Rek3dge, Weoweoteo, Anthrax, AbstractDark, Giron, COSINE, xcy-7, Vermillion, Rustam, Zelda, Michigun, Luneth, Hinds1324, Evasium, Loogiah, Csx42Gaming, FunnyGame, Riot",
     verifier: "Zoink",
     id: "28224824",
     password: "Free Copy",
@@ -1062,7 +1067,8 @@ const levels = {
   },
   silentpoltergeist: {
     name: "Silent poltergeist",
-    creator: "TheRealSailent and more",
+    publisher: "TheRealSailent and more",
+    creator: "TheRealSailent(publisher), MaxPower GD, Nautilus2K",
     verifier: "Whizkid05",
     id: "13586257",
     password: "Copy Disabled",
@@ -1079,7 +1085,8 @@ const levels = {
   },
   firework: {
     name: "Firework",
-    creator: "Trick(cherryteam)",
+    publisher: "Trick(cherryteam) and more",
+    creator: "Vernam(host), lillium, 00Zero, Konsi, Realvet, Desumari, Itami, Lekvid, Buragoz, Crouley, Orte, Hantein",
     verifier: "Trick",
     id: "75206202",
     password: "234000",
