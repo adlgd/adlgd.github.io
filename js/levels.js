@@ -954,7 +954,7 @@ const levels = {
   deimositshybrid: {
     name: "Deimos",
     publisher: "ItsHybrid and more",
-    creator: "ItsHybrid, Pocke, Wespdx, Isane, Max, Iris, Polli, Enixy, Cersia, Skele, Platnuu, Loltad, Killa, Yonaka, Smokes, Tygresek, Juhou, Licen, Lieb, PokeChatt, River, Alkali, Antares, Zipixbox, GrenadeOfTacos, Parallax, End, Ryamu",
+    creator: "ItsHybrid(host, publisher), Pocke, Wespdx, Isane, Max, Iris, Polli, Enixy, Cersia, Skele, Platnuu, Loltad, Killa, Yonaka, Smokes, Tygresek, Juhou, Licen, Lieb, PokeChatt, River, Alkali, Antares, Zipixbox, GrenadeOfTacos, Parallax, End, Ryamu",
     verifier: "Doggie",
     id: "93091893",
     password: "Free Copy",
@@ -1090,7 +1090,7 @@ const levels = {
   eyesinthewater: {
     name: "Eyes in the Water",
     publisher: "hawkyre and more",
-    creator: "hawkyre, ImMaxX1, Bli, skywalker14, darksteelflame, Arithean",
+    creator: "hawkyre(host, publisher), ImMaxX1, Bli, skywalker14, darksteelflame, Arithean",
     verifier: "LordVaderCraft",
     id: "95851008",
     password: "Free Copy",
