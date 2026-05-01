@@ -48,7 +48,7 @@ const levels = {
     youtube: "x4Io4zkWVRw",
     song: "Flamewall by Camellia (ID 10007151(library)",
     description: "The ultimate endurance test, in the works since 2022. | Verified by Cuatrocientos in 221.703k attempts.",
-    trivia: "Cbf blocker deleted"
+    trivia: "Cbf blocker deleted, XXXL megacollab level"
   },
   tidalwave: {
     name: "Tidal Wave",
@@ -717,7 +717,7 @@ const levels = {
     name: "Sakupen Denouement",
     publisher: "ad3us and more",
     creator: "ad3us(publisher), Nick24(original)",
-    verifier: "ad3usgmd",
+    verifier: "ad3us",
     id: "133261698",
     password: "Free Copy",
     length: "52s",
@@ -852,7 +852,7 @@ const levels = {
   element111rg: {
     name: "Element 111 Rg",
     publisher: "Compendium",
-    creator: "DarkX(Lost), Restoration Union",
+    creator: "Restoration Union, DarkX(original, lost)",
     verifier: "paqoe",
     id: "61775814",
     password: "Free Copy",
@@ -862,10 +862,26 @@ const levels = {
     difficulty: "Insane",
     rating: "Unrated",
     youtube: "ZcdiTGuIJ1k",
-    bgColor: "#222221",
     song: "Time Machine by Waterflame (ingame song)",
     description: "Theoretical version of Element 111 Rg by DarkX. Created and restored by Restoration Union.",
     trivia: "Old impossible level"
+  },
+  masterofpuppets: {
+    name: "Master of Puppets",
+    publisher: "TheZinkYT and more",
+    creator: "TheZinkYT(host, publisher), haidm, Happy365, Catani, DreamLightGD, Zeronium, Rocipher, lobster, GaidenHertuny, z0j, noxiom, nexeggy1, zeroya, Gizbro, Drakosa, Stilluetto, vinny, Gzeee, MercuryDT, skzyl, IINimbusII, FrostBurn, Moosh, DataGhost, Bittersweet, BlazeRol, shman, Skrypto, HideousToaster, Average, Narwall, JoeDaBruh, Aqualime, awesomeme360, Trunith, Hamato, zephlin, zBray, realwhata, GDikonic, Helbrein, Pizazzy, BibbyDib111, Goobfrudla, NateFH, copc, Graded, SouneX, robotchief, Acute144, DarkCacti, McCoco, pokeGMD, Yoonsr, Yoppe, IceRodGD, rRaddie, Yendis, Puueds, JoshTheB, Jorse, Arckalia, Valentlne, greencuber, sink, Swib, Div, johdanlop, Devilmine, GhostVandalf, Renn241, DataGhost, zeptrus, Diris, At424, DuskerHu, silver, 82wyatt, BlazeRol, augi, Zeniux, HideousToaster, Average, Aimbotter2123, Bedrock, EstebannGD, ronlix, MaxxoRMeN, tenzk, sprei, robtobfreak, haizenberg, ZinkZeta",
+    verifier: "scotchtape",
+    id: "136396693",
+    password: "Free Copy",
+    length: "8m 34s",
+    object: "472,220",
+    version: "2.208",
+    difficulty: "Insane",
+    rating: "Unrated",
+    youtube: "JBZ-lrBgkl0",
+    song: "Master of Dashers by nebunyx (ID 1400936), Master of Puppets by Metallica (NONG)",
+    description: "Will you pull the correct strings and become the Master of Puppets? Made by me and 90+ creators. Verified by scotchtape.",
+    trivia: "XXXL megacollab level"
   },
   wockycircles: {
     name: "wocky circles",
@@ -880,7 +896,6 @@ const levels = {
     difficulty: "Insane",
     rating: "Unrated",
     youtube: "yOx5Q3BkWIg",
-    bgColor: "#020242",
     song: "Dr.Phonics - Firepower by DrPhonics (ID 490203)",
     description: "poland",
     trivia: "Sakupen Circles theme level"
@@ -898,7 +913,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "-",
     youtube: "ofG2mJi9kEA",
-    bgColor: "#421c02",
     song: "Iron God: Sakupen Hell Yes RMX by mr-jazzman (ID 360804)",
     description: "By Nick24, DrCuber, korewa, Muffy450, Renn241, endevvor, Mzero, NineDice, GhostVandalf. Dedicated to Cursed",
     trivia: "Former Top 1, Old impossible level(decorated and a bit nerfed)"
@@ -916,7 +930,6 @@ const levels = {
     difficulty: "Insane",
     rating: "Unrated",
     youtube: "KZksoQVGmKw",
-    bgColor: "#421c02",
     song: "Iron God: Sakupen Hell Yes RMX by mr-jazzman (ID 360804)",
     description: "Secret way removed. Legitimately verified by me.",
     trivia: "Same as Unnerfed Sakupen circles but only nerfed wave spam"
@@ -924,7 +937,7 @@ const levels = {
   wokecircles: {
     name: "WOKE circles",
     publisher: "PPPixel and more",
-    creator: "Nick24(original), PPPixel",
+    creator: "Nick24(original), PPPixel(publisher)",
     verifier: "PPPixel",
     id: "88318424",
     password: "Free Copy",
@@ -934,7 +947,6 @@ const levels = {
     difficulty: "Insane",
     rating: "Unrated",
     youtube: "MKFeLVaBdoE",
-    bgColor: "#944386",
     song: "Iron God: Sakupen Hell Yes RMX by mr-jazzman (ID 360804)",
     description: "-",
     trivia: "Same as Sakupen Circles' layout"
@@ -952,7 +964,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "Featured",
     youtube: "b2yHaIk5zio",
-    bgColor: "#351112",
     song: "[Deimos]* by Solkrieg (ID 830628)",
     description: "Megacollab made by 20+ people. Sequel to Phobos. Verified by Doggie in 43k attempts. GooD luck..",
     trivia: "-"
@@ -970,7 +981,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "Featured",
     youtube: "nQDTi077O6M",
-    bgColor: "#ff9036",
     song: "Beauty in Chaos by larrynachos (ID 935594)",
     description: "Solve the mystery of thunderstorms on a rainy day. 264 hours and 101 thousand attempts. My greatest project ever. Love you all! (bug @ 10% fixed 2/23/24).",
     trivia: "Solo level(Layout, Design, Verify)"
@@ -988,7 +998,6 @@ const levels = {
     difficulty: "Insane",
     rating: "Unrated",
     youtube: "0DAojkSfR-8",
-    bgColor: "#a66826",
     song: "Creo - Outlaw by CreoMusic (ID 823812)",
     description: "I've made it through the Blizzard and the Sandstorm on instinct. #RateBlindBlizzard #RateSightlessSandstorm",
     trivia: "Invisible version of Sunset Sandstorm"
@@ -1006,7 +1015,6 @@ const levels = {
     difficulty: "Insane",
     rating: "Unrated",
     youtube: "veFJtgFFvNM",
-    bgColor: "#252126",
     song: "Dimension by hyperdemented (ID 709578)",
     description: "What I created as a joke; ended up becoming a reality.",
     trivia: "Invisible version of Black Blizzard"
@@ -1024,7 +1032,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "Featured",
     youtube: "hZ8vFX8z_BU",
-    bgColor: "#918dc2",
     song: "From Air by Lapse (ID 971534)",
     description: "Prepare for COLD",
     trivia: "cbf blocker deleted?"
@@ -1042,7 +1049,6 @@ const levels = {
     difficulty: "Insane",
     rating: "Unrated",
     youtube: "K77leSnLP0Y",
-    bgColor: "#4f2723",
     song: "Dark Matter Suite (1f1n1ty + LOrbSheddy Remix) by 1f1n1ty (ID 693041)",
     description: "165~k attempts. (updated for ldm)",
     trivia: "Unnerfed version of INNARDS"
@@ -1056,14 +1062,47 @@ const levels = {
     password: "Free Copy",
     length: "2m 57s",
     object: "81,506",
-    version: "2.11",
+    version: "2.012",
     difficulty: "Insane",
     rating: "Unrated",
     youtube: "qSdyb-Ft1tk",
-    bgColor: "#400501",
     song: "Flawless Wings of Yatagarasu by Gls (ID 490479)",
     description: "As a tribute to TrusTa for verifying Yatagarasu, I have put together the unnerfed version before TrusTa's nerfs.",
     trivia: "Unnerfed version of Yatagarasu"
+  },
+  silentrealistik22: {
+    name: "Silent RealistiK 22",
+    publisher: "gstellar",
+    creator: "gstellar",
+    verifier: "apuu",
+    id: "133065676",
+    password: "Free Copy",
+    length: "51s",
+    object: "12,854",
+    version: "2.208",
+    difficulty: "Insane",
+    rating: "Unrated",
+    youtube: "jI4AySdFlIo",
+    song: "Realistik - 211 by Rukkus (ID 580950)",
+    description: "IMPOSSIBLE LEVEL MADE IN 2023 // VERIFIED BY APU",
+    trivia: "-"
+  },
+  eyesinthewater: {
+    name: "Eyes in the Water",
+    publisher: "hawkyre and more",
+    creator: "hawkyre, ImMaxX1, Bli, skywalker14, darksteelflame, Arithean",
+    verifier: "LordVaderCraft",
+    id: "95851008",
+    password: "Free Copy",
+    length: "1m 32s",
+    object: "91,424",
+    version: "2.11",
+    difficulty: "Extreme Demon",
+    rating: "Featured",
+    youtube: "yvLwiOy3KEA",
+    song: "six impala - eyes in the water by SixImpala (ID 1053005)",
+    description: "They are watching you. Don't blink. // Verified by LordVadercraft in 135,054 attempts <3",
+    trivia: "-"
   },
   silentpoltergeist: {
     name: "Silent poltergeist",
@@ -1078,15 +1117,14 @@ const levels = {
     difficulty: "Insane",
     rating: "Unrated",
     youtube: "XQ_TZc7cnPs",
-    bgColor: "#222222",
     song: "NK - Poltergeist (OLD mix) by Rukkus (ID 587870)",
     description: "Collab with MaxPower GD and Nautilus2K. Fixed 2.1 version.",
     trivia: "Old impossible level(spam)"
   },
   firework: {
     name: "Firework",
-    publisher: "Trick(cherryteam) and more",
-    creator: "Vernam(host), lillium, 00Zero, Konsi, Realvet, Desumari, Itami, Lekvid, Buragoz, Crouley, Orte, Hantein",
+    publisher: "Trick and more",
+    creator: "cherryteam(Vernam(host), lillium, 00Zero, Konsi, Realvet, Desumari, Itami, Lekvid, Buragoz, Crouley, Orte, Hantein)",
     verifier: "Trick",
     id: "75206202",
     password: "234000",
@@ -1096,7 +1134,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "-",
     youtube: "QBe5x2o9v2w",
-    bgColor: "#222222",
     song: "NK - Classical VIP by Rukkus (ID 502268)",
     description: "Here you die",
     trivia: "Lost Top 1(Slaughterhouse was hacked)"
