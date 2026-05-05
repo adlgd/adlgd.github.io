@@ -1104,6 +1104,23 @@ const levels = {
     description: "They are watching you. Don't blink. // Verified by LordVadercraft in 135,054 attempts <3",
     trivia: "-"
   },
+  mapofproblematique: {
+    name: "Map of Problematique",
+    publisher: "Yossarian and more",
+    creator: "Yossarian(publisher), KatnBlack, HaydenDom, Jcak",
+    verifier: "seels",
+    id: "91736575",
+    password: "Free Copy",
+    length: "2m 19s",
+    object: "13,318",
+    version: "2.11",
+    difficulty: "Insane",
+    rating: "Unrated",
+    youtube: "Sm0UvvwOE08",
+    song: "DJ Bossler-Turkey In The Straw by bossler13 (ID 234565)",
+    description: "-",
+    trivia: "Layout Level"
+  },
   silentpoltergeist: {
     name: "Silent poltergeist",
     publisher: "TheRealSailent and more",
