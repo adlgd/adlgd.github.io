@@ -1202,7 +1202,7 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "-",
     youtube: "4yHA6jux5UI",
-    song: "Through the Gates (Abbv.) by Dimrain47",
+    song: "Through the Gates (Abbv.) by Dimrain47 (ID 39464)",
     description: "Verified by Exen. Special thanks to Royal, ZSolti49 and SeptaGon7. Hosted by Maestro Illuminati.",
     trivia: "Rated after 829 days"
   },
