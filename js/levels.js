@@ -1117,7 +1117,7 @@ const levels = {
     difficulty: "Insane",
     rating: "Unrated",
     youtube: "Sm0UvvwOE08",
-    song: "DJ Bossler-Turkey In The Straw by bossler13 (ID 234565)",
+    song: "DJ Bossler-Turkey In The Straw by bossler13 (ID 234565), Map of the Problematique by Muse (NONG)",
     description: "-",
     trivia: "Layout Level"
   },
