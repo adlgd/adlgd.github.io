@@ -1243,7 +1243,7 @@ const levels = {
   battleoftheshades: {
     name: "Battle of the Shades",
     publisher: "KrNati",
-    creator: "GD Virus, KrNati(publisher)",
+    creator: "GD virus, KrNati(publisher)",
     verifier: "KrNati",
     id: "79166683",
     password: "Free Copy",
