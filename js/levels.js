@@ -1223,4 +1223,38 @@ const levels = {
     description: "-",
     trivia: "old version of KOCMOC"
   },
+  silentlocked: {
+    name: "Silentlocked",
+    publisher: "GDSkele and more",
+    creator: "GDSkele(host, publisher), Smokes, Kazia, TheTrueEclipse, RobTop(Developer), rynoxious, Connot, Megantwoo, VERSU5, ErisethSP!, Donmor, Jakedog, Minix, CamsOverHere, iRosie",
+    verifier: "TFIBB",
+    id: "113959291",
+    password: "Free Copy",
+    length: "1m 48s",
+    object: "109,267",
+    version: "2.207",
+    difficulty: "Extreme Demon",
+    rating: "Featured",
+    youtube: "O-IQeUdEGvI",
+    song: "Deadlocked by F-777 (ingame song) and more",
+    description: "Silent - Cleared by TFIBB",
+    trivia: "Rated after 829 days"
+  },
+  battleoftheshades: {
+    name: "Battle of the Shades",
+    publisher: "KrNati",
+    creator: "GD Virus",
+    verifier: "KrNati",
+    id: "79166683",
+    password: "Free Copy",
+    length: "2m 26s",
+    object: "9,303",
+    version: "2.113",
+    difficulty: "Insane",
+    rating: "Unrated",
+    youtube: "jsrqMqs1-Ao",
+    song: "Mandragora by Miyolophone (ID 752857)",
+    description: "Silent - Cleared by TFIBB",
+    trivia: "Old impossible level"
+  },
 };
