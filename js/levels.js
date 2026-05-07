@@ -1238,7 +1238,7 @@ const levels = {
     youtube: "O-IQeUdEGvI",
     song: "Deadlocked by F-777 (ingame song) and more",
     description: "Silent - Cleared by TFIBB",
-    trivia: "Rated after 829 days"
+    trivia: "-"
   },
   battleoftheshades: {
     name: "Battle of the Shades",
