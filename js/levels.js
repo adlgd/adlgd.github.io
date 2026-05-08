@@ -835,7 +835,7 @@ const levels = {
   tidalmoment: {
     name: "Tidalmoment",
     publisher: "yunhr and more",
-    creator: "yunhr(publisher, copy-paste), Synactive GD(original), pocket(original), OniLink(original)",
+    creator: "yunhr(publisher, copy-paste), OniLink(original)",
     verifier: "yunhr",
     id: "132987162",
     password: "Free Copy",
