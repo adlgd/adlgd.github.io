@@ -15,6 +15,61 @@
         background-size: cover;
     }
 
+    .unlisted-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    
+        gap: 15px;
+        margin-top: 20px;
+    }
+    
+    .unlisted-level {
+        background: rgba(255,255,255,0.05);
+    
+        border: 1px solid rgba(255,255,255,0.1);
+    
+        border-radius: 12px;
+    
+        padding: 14px;
+        text-align: center;
+    }
+
+    .list-level {
+        background: rgba(255,255,255,0.05);
+    
+        border: 1px solid rgba(255,255,255,0.1);
+    
+        border-radius: 12px;
+    
+        padding: 14px;
+        text-align: center;
+    
+        transition: 0.2s ease;
+    }
+
+    .list-level:hover {
+        background: rgba(255,255,255,0.1);
+        transform: translateY(-2px);
+    }
+
+    .unlisted-name {
+        font-size: 22px;
+        font-weight: bold;
+    
+        margin-bottom: 6px;
+    }
+    
+    .unlisted-creator {
+        font-size: 14px;
+        color: #aaaaaa;
+    }
+
+    @media (max-width: 700px) {
+        .unlisted-grid {
+            grid-template-columns: 1fr;
+        }
+    }
+
 </style>
 </head>
 
@@ -37,6 +92,49 @@
       </div>
 
 </div>
+
+    <h2>Unlisted Levels</h2>
+
+    <div class="list-level">#1 - Thinking Space II</div>
+
+    <div class="unlisted-grid">
+
+        <div class="unlisted-level">
+            <div class="unlisted-name">Acheron buffed</div>
+            <div class="unlisted-creator">Zoink</div>
+        </div>
+
+    </div>
+
+    <div class="list-level">Acheron</div>
+
+    <div class="unlisted-grid">
+            
+        <div class="unlisted-level">
+            <div class="unlisted-name">christmashouse</div>
+            <div class="unlisted-creator">Zoink</div>
+        </div>
+        <div class="unlisted-level">
+            <div class="unlisted-name">VSC Madness</div>
+            <div class="unlisted-creator">Nev9</div>
+        </div>
+        <div class="unlisted-level">
+            <div class="unlisted-name">VSC on Track</div>
+            <div class="unlisted-creator">Nev9</div>
+        </div>
+            
+    </div>
+
+    <div class="list-level">Slaughterhouse</div>
+
+    <div class="unlisted-grid">
+
+        <div class="unlisted-level">
+            <div class="unlisted-name">SKC Kritoss sp</div>
+            <div class="unlisted-creator">ad3us</div>
+        </div>
+
+    </div>
 
 </body>
 </html>
