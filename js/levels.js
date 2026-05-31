@@ -150,7 +150,7 @@ const levels = {
     youtube: "AdrmZsy52EY",
     song: "Iron God: Sakupen Hell Yes RMX by mr-jazzman (ID 360804)",
     description: "Another nine circles level. Hardest nine circles level ever created?",
-    trivia: "Original version of Sakupen Circles, former Top 1 of Unrated level"
+    trivia: "Original version of Sakupen Circles, former Top 1 of Unrated level, Hardest Nine Circles theme level"
   },
   quanteuseprocessing: {
     name: "Quanteuse processing",
@@ -218,6 +218,23 @@ const levels = {
     youtube: "AO--mVVFtKI",
     song: "Every End... by Dimrain47 (ID 99477)",
     description: "Never Ending",
+    trivia: "-"
+  },
+  ultraparacosm: {
+    name: "Ultra Paracosm",
+    publisher: "declanlc and Renn241",
+    creator: "declanlc(publisher), Renn241",
+    verifier: "Wity",
+    id: "138704906",
+    password: "Free Copy",
+    length: "1m 11s",
+    object: "69,416",
+    version: "2.208",
+    difficulty: "Insane",
+    rating: "Unrated",
+    youtube: "4V24spYQWuE",
+    song: "~NK~ \"TruthOrDare\" featJrounds by Rukkus (ID 469390)",
+    description: "The Final Paracosm. Started by Renn241 and finished by Me. Verified by Wity.",
     trivia: "-"
   },
   andromeda: {
