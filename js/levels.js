@@ -1,4 +1,21 @@
 const levels = {
+  society: {
+    name: "Society",
+    publisher: "Neomarbilan and more",
+    creator: "Neomarbilan(host, publisher), Tusol(host), Null66, IL1ghtlyOne, EXXXZOR, SunFl0werBoy, UnderCookedWaffle, Ashirymafik, Ex3r0, Nibbles",
+    verifier: "wPopoff",
+    id: "127323087",
+    password: "Free Copy",
+    length: "2m 23s",
+    object: "168,371",
+    version: "2.208",
+    difficulty: "Extreme Demon",
+    rating: "Featured",
+    youtube: "0xQia-RHC0E",
+    song: "Pathetic - Society (Remix) by HelliXScream (ID 1569886)",
+    description: "// Is it guilt that keeps you awake at night or is it someone who cant accept the truth? //",
+    trivia: "Current Top 1"
+  },
   thinkingspaceii: {
     name: "Thinking Space II",
     publisher: "CairoX and more",
@@ -14,7 +31,7 @@ const levels = {
     youtube: "CELNmHwln_c",
     song: "Nuke Powder by MaelouX (ID 489111)",
     description: "A mindscape of pure insanity, most fall to it's brutal nature. Gameplay by CoCy team, Deco hosted by DrCuber, Verified by Zoink. Dedicated to Hideki <3",
-    trivia: "Current Top 1(1 hour(before Amethyst) + 49 days(cbf blocker placed on Amethyst) + now), Cbf blocker deleted"
+    trivia: "Former Top 1(1 hour(before Amethyst) + 49 days(cbf blocker placed on Amethyst) + ), Cbf blocker deleted"
   },
   amethyst: {
     name: "Amethyst",
