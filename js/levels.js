@@ -403,7 +403,7 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "-",
     youtube: "ROuXHSKEhHA",
-    song: "We Are All Fucked by larrynachos (ID 890355)",
+    song: "We Are All Funked by larrynachos (ID 890355)",
     description: "\"Beware the path this monster takes\" - Ozlip // All assets used with permission // Inspired by Kenos, verified by Zoink.",
     trivia: "-"
   },
