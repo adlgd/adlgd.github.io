@@ -11,7 +11,7 @@ const levels = {
     version: "2.208",
     difficulty: "Extreme Demon",
     rating: "Featured",
-    youtube: "0xQia-RHC0E",
+    youtube: "3CoEaH1CM7o",
     song: "Pathetic - Society (Remix) by HelliXScream (ID 1569886), Society by pathetic240px (NONG)",
     description: "// Is it guilt that keeps you awake at night or is it someone who cant accept the truth? //",
     trivia: "Current Top 1"
