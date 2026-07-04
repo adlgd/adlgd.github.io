@@ -61,6 +61,9 @@ function updateList(){
         if(status==="unrated" && unratedCheck.checked)
             statusMatch=true;
 
+        if(status==="unratedall" && unratedallCheck.checked)
+            statusMatch=true;
+
         entry.style.display=
             (searchMatch && statusMatch)
             ? "flex"
