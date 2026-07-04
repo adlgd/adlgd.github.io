@@ -199,17 +199,27 @@
     </h1>
 
     <div class="toolbar">
-
-        <button id="filterButton" class="toolbar-btn">
-            <img src="/images/filter.png">
-        </button>
+        <div class="filter">
+            <button class="toolbar-btn filter-btn">
+                ☰
+            </button>
     
-        <input
-            id="searchBox"
-            type="text"
-            placeholder="Search levels..."
-        >
+            <div class="filter-menu">
+                <div class="filter-option" data-filter="all">
+                    ✓ All
+                </div>
     
+                <div class="filter-option" data-filter="rated">
+                    Rated
+                </div>
+    
+                <div class="filter-option" data-filter="unrated">
+                    Unrated
+                </div>
+            </div>
+        </div>
+    
+        <input id="searchBox" placeholder="Search...">
     </div>
     
 </header>
