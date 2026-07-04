@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 break;
     
             case "unrated":
-                subRank.textContent = `Unrated(#${unratedRank})`;
+                subRank.textContent = `Un(#${unratedRank})`;
                 unratedRank++;
                 break;
     
