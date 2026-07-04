@@ -164,6 +164,32 @@
         .filter{
             position:relative;
         }
+
+        .filter-item{
+            display:flex;
+            align-items:center;
+        
+            gap:10px;
+        
+            padding:12px 16px;
+        
+            cursor:pointer;
+        
+            user-select:none;
+        }
+        
+        .filter-item:hover{
+            background:#2d4e84;
+        }
+        
+        .filter-item input{
+        
+            width:16px;
+            height:16px;
+        
+            cursor:pointer;
+        
+        }
         
         .filter-menu{
             position:absolute;
@@ -234,21 +260,21 @@
             </button>
 
             <div id="filterMenu" class="filter-menu">
-
-                <div class="filter-option" data-filter="all">
-                    ✓ All
-                </div>
-
-                <div class="filter-option" data-filter="rated">
+                <label class="filter-item">
+                    <input type="checkbox" id="ratedCheck" checked>
                     Rated
-                </div>
+                </label>
+            
+                <label class="filter-item">
+                    <input type="checkbox" id="unratedCheck" checked>
+                    Unrated(Recommend)
+                </label>
 
-                <div class="filter-option" data-filter="unrated">
-                    Unrated
-                </div>
-
+                <label class="filter-item">
+                    <input type="checkbox" id="unratedallCheck" checked>
+                    Unrated(All)
+                </label>
             </div>
-
         </div>
 
         <input
