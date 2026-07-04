@@ -1,80 +1,70 @@
 const filterButton = document.getElementById("filterButton");
 const filterMenu = document.getElementById("filterMenu");
 const searchBox = document.getElementById("searchBox");
-const filterOptions = document.querySelectorAll(".filter-option");
+const ratedCheck = document.getElementById("ratedCheck");
+const unratedCheck = document.getElementById("unratedCheck");
+const unratedCheck = document.getElementById("unratedallCheck");
 
-let currentFilter = "all";
-
-filterButton.addEventListener("click", (e) => {
+filterButton.addEventListener("click",(e)=>{
     e.stopPropagation();
+
     filterMenu.classList.toggle("show");
 });
 
-document.addEventListener("click", () => {
+document.addEventListener("click",()=>{
     filterMenu.classList.remove("show");
 });
 
-filterMenu.addEventListener("click", (e) => {
+filterMenu.addEventListener("click",(e)=>{
     e.stopPropagation();
 });
 
-filterOptions.forEach(option => {
+searchBox.addEventListener("input",updateList);
 
-    option.addEventListener("click", () => {
+ratedCheck.addEventListener("change", handleCheckChange);
+unratedCheck.addEventListener("change", handleCheckChange);
 
-        currentFilter = option.dataset.filter;
-        
-        filterOptions.forEach(o => {
+function handleCheckChange() {
 
-            const text =
-                o.dataset.filter.charAt(0).toUpperCase() +
-                o.dataset.filter.slice(1);
+    if (!ratedCheck.checked && !unratedCheck.checked) {
+        ratedCheck.checked = true;
+        unratedCheck.checked = true;
+    }
 
-            if (o.dataset.filter === currentFilter) {
-                o.textContent = "✓ " + text;
-            } else {
-                o.textContent = text;
-            }
+    updateList();
+}
 
-        });
+function updateList(){
 
-        updateList();
+    const keyword=searchBox.value.toLowerCase();
 
-        filterMenu.classList.remove("show");
+    document.querySelectorAll(".entry").forEach(entry=>{
 
-    });
-
-});
-
-searchBox.addEventListener("input", updateList);
-
-function updateList() {
-
-    const keyword = searchBox.value.trim().toLowerCase();
-
-    const entries = document.querySelectorAll(".entry");
-
-    entries.forEach(entry => {
-
-        const level =
+        const level=
             entry.querySelector(".name").textContent.toLowerCase();
 
-        const host =
+        const host=
             entry.querySelector(".host").textContent.toLowerCase();
 
-        const status =
+        const status=
             entry.querySelector(".sub-rank").dataset.status;
 
-        const searchMatch =
+        const searchMatch=
             level.includes(keyword) ||
             host.includes(keyword);
 
-        const filterMatch =
-            currentFilter === "all" ||
-            status === currentFilter;
+        let statusMatch=false;
 
-        entry.style.display =
-            (searchMatch && filterMatch) ? "flex" : "none";
+        if(status==="rated" && ratedCheck.checked)
+            statusMatch=true;
+
+        if(status==="unrated" && unratedCheck.checked)
+            statusMatch=true;
+
+        entry.style.display=
+            (searchMatch && statusMatch)
+            ? "flex"
+            : "none";
 
     });
 
