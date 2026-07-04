@@ -18,23 +18,25 @@ document.addEventListener("DOMContentLoaded", () => {
             mainRank++;
         }
 
-        case "rated":
-            subRank.textContent = `#${ratedRank}`;
-            ratedRank++;
-            break;
+        switch (status) {
 
-        case "unrated":
-            subRank.textContent = `Unrated(#${unratedRank})`;
-            unratedRank++;
-            break;
-
-        case "unratedall":
-            subRank.textContent = "Unrated(-)";
-            break;
-
-        case "challenge":
-            subRank.textContent = "Challenge";
-            break;
+            case "rated":
+                subRank.textContent = `#${ratedRank}`;
+                ratedRank++;
+                break;
+    
+            case "unrated":
+                subRank.textContent = `Unrated(#${unratedRank})`;
+                unratedRank++;
+                break;
+    
+            case "unratedall":
+                subRank.textContent = "Unrated(-)";
+                break;
+    
+            case "challenge":
+                subRank.textContent = "Challenge";
+                break;
         }
     });
 });
