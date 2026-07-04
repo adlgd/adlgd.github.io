@@ -19,7 +19,6 @@ document.addEventListener("DOMContentLoaded", () => {
         }
 
         switch (status) {
-
             case "rated":
                 subRank.textContent = `#${ratedRank}`;
                 ratedRank++;
