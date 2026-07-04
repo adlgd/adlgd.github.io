@@ -15,6 +15,9 @@ document.addEventListener("DOMContentLoaded", () => {
             subRank.textContent = `#${ratedRank}`;
             ratedRank++;
         }
+        else if(status === "unrated+"){
+            subRank.textContent = "Unrated";
+        }
         else if(status === "unrated"){
             subRank.textContent = "Unrated";
         }
