@@ -3,7 +3,7 @@ const filterMenu = document.getElementById("filterMenu");
 const searchBox = document.getElementById("searchBox");
 const ratedCheck = document.getElementById("ratedCheck");
 const unratedCheck = document.getElementById("unratedCheck");
-const unratedCheck = document.getElementById("unratedallCheck");
+const unratedallCheck = document.getElementById("unratedallCheck");
 
 filterButton.addEventListener("click",(e)=>{
     e.stopPropagation();
