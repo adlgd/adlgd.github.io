@@ -4,6 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
     let mainRank = 1;
     let ratedRank = 1;
     let unratedRank = 1;
+    let challengeRank = 1;
 
     entries.forEach((entry) => {
         const mainRankElement = entry.querySelector(".main-rank");
@@ -25,16 +26,17 @@ document.addEventListener("DOMContentLoaded", () => {
                 break;
     
             case "unrated":
-                subRank.textContent = `Un(#${unratedRank})`;
+                subRank.textContent = `UR(#${unratedRank})`;
                 unratedRank++;
                 break;
     
             case "unratedall":
-                subRank.textContent = "Unrated(-)";
+                subRank.textContent = "UR(-)";
                 break;
     
             case "challenge":
-                subRank.textContent = "Challenge";
+                subRank.textContent = `Chall(#${challengeRank})`;
+                challengeRank++;
                 break;
 
             default:
