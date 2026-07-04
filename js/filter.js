@@ -74,7 +74,6 @@ function updateList(){
             (searchMatch && statusMatch)
             ? "flex"
             : "none";
-
     });
 
 }
