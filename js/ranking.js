@@ -1,27 +1,28 @@
 document.addEventListener("DOMContentLoaded", () => {
     const entries = document.querySelectorAll(".entry");
 
+    let mainRank = 1;
     let ratedRank = 1;
 
-    entries.forEach((entry, index) => {
-        const mainRank = entry.querySelector(".main-rank");
+    entries.forEach((entry) => {
+        const mainRankElement = entry.querySelector(".main-rank");
         const subRank = entry.querySelector(".sub-rank");
-        
-        mainRank.textContent = `#${index + 1}`;
 
         const status = subRank.dataset.status;
 
-        if(status === "rated"){
+        if (status === "unratedall") {
+            mainRankElement.textContent = "-";
+        } else {
+            mainRankElement.textContent = `#${mainRank}`;
+            mainRank++;
+        }
+
+        if (status === "rated") {
             subRank.textContent = `#${ratedRank}`;
             ratedRank++;
-        }
-        else if(status === "unrated+"){
+        } else if (status === "unrated" || status === "unratedall") {
             subRank.textContent = "Unrated";
-        }
-        else if(status === "unrated"){
-            subRank.textContent = "Unrated";
-        }
-        else if(status === "challenge"){
+        } else if (status === "challenge") {
             subRank.textContent = "Challenge";
         }
     });
