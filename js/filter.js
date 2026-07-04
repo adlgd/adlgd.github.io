@@ -23,10 +23,11 @@ searchBox.addEventListener("input",updateList);
 
 ratedCheck.addEventListener("change", handleCheckChange);
 unratedCheck.addEventListener("change", handleCheckChange);
+unratedallCheck.addEventListener("change", handleCheckChange);
 
 function handleCheckChange() {
 
-    if (!ratedCheck.checked && !unratedCheck.checked) {
+    if (!ratedCheck.checked && !unratedCheck.checked && !unratedallCheck.checked) {
         ratedCheck.checked = true;
         unratedCheck.checked = true;
     }
