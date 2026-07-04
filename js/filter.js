@@ -1,48 +1,61 @@
-const filterButton = document.getElementById("filterButton");
-const filterMenu = document.getElementById("filterMenu");
-
-filterButton.onclick = () => {
-    filterMenu.classList.toggle("show");
-};
+let currentFilter = "all";
 
 const searchBox = document.getElementById("searchBox");
-const radios = document.querySelectorAll("input[name=status]");
+const filterOptions = document.querySelectorAll(".filter-option");
 
-function updateList(){
+filterOptions.forEach(option => {
 
-    const search = searchBox.value.toLowerCase();
+    option.addEventListener("click", () => {
 
-    const status =
-        document.querySelector("input[name=status]:checked").value;
+        currentFilter = option.dataset.filter;
 
-    document.querySelectorAll(".entry").forEach(entry=>{
+        filterOptions.forEach(o => {
+            const text = o.dataset.filter.charAt(0).toUpperCase() + o.dataset.filter.slice(1);
 
-        const level =
-            entry.querySelector(".name").textContent.toLowerCase();
+            if (o.dataset.filter === currentFilter) {
+                o.textContent = "✓ " + text;
+            } else {
+                o.textContent = text;
+            }
+        });
 
-        const host =
-            entry.querySelector(".host").textContent.toLowerCase();
+        updateList();
 
-        const s =
-            entry.querySelector(".sub-rank").dataset.status;
+    });
+
+});
+
+searchBox.addEventListener("input", updateList);
+
+function updateList() {
+
+    const keyword = searchBox.value.toLowerCase();
+
+    const entries = document.querySelectorAll(".entry");
+
+    entries.forEach(entry => {
+
+        const levelName = entry.querySelector(".name").textContent.toLowerCase();
+        const host = entry.querySelector(".host").textContent.toLowerCase();
+
+        const status = entry.querySelector(".sub-rank").dataset.status;
 
         const searchMatch =
-            level.includes(search) || host.includes(search);
+            levelName.includes(keyword) ||
+            host.includes(keyword);
 
         const statusMatch =
-            status==="all" || status===s;
+            currentFilter === "all" ||
+            status === currentFilter;
 
-        entry.style.display =
-            searchMatch && statusMatch ? "flex" : "none";
+        if (searchMatch && statusMatch) {
+            entry.style.display = "flex";
+        } else {
+            entry.style.display = "none";
+        }
 
     });
 
 }
 
-searchBox.addEventListener("input",updateList);
-
-radios.forEach(r=>{
-
-    r.addEventListener("change",updateList);
-
-});
+updateList();
