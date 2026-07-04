@@ -223,34 +223,42 @@
     </div>
 
 <header>
-    <h1>
-        All Demon List
-    </h1>
+    <h1>All Demon List</h1>
 
     <div class="toolbar">
+
         <div class="filter">
-            <button class="toolbar-btn filter-btn">
+
+            <button id="filterButton" class="toolbar-btn filter-btn">
                 ☰
             </button>
-    
-            <div class="filter-menu">
+
+            <div id="filterMenu" class="filter-menu">
+
                 <div class="filter-option" data-filter="all">
                     ✓ All
                 </div>
-    
+
                 <div class="filter-option" data-filter="rated">
                     Rated
                 </div>
-    
+
                 <div class="filter-option" data-filter="unrated">
                     Unrated
                 </div>
+
             </div>
+
         </div>
-    
-        <input id="searchBox" placeholder="Search...">
+
+        <input
+            id="searchBox"
+            type="text"
+            placeholder="Search..."
+        >
+
     </div>
-    
+
 </header>
 
 <div class="list">
@@ -2129,7 +2137,7 @@
 
 </div>
 
-<script src="/js/filter.js"></script>
+<script src="/js/filter.js" defer></script>
 <script src="/js/ranking.js"></script>
 
 </body>
