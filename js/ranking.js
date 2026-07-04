@@ -3,6 +3,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     let mainRank = 1;
     let ratedRank = 1;
+    let unratedRank = 1;
 
     entries.forEach((entry) => {
         const mainRankElement = entry.querySelector(".main-rank");
@@ -17,13 +18,23 @@ document.addEventListener("DOMContentLoaded", () => {
             mainRank++;
         }
 
-        if (status === "rated") {
+        case "rated":
             subRank.textContent = `#${ratedRank}`;
             ratedRank++;
-        } else if (status === "unrated" || status === "unratedall") {
-            subRank.textContent = "Unrated(All)";
-        } else if (status === "challenge") {
+            break;
+
+        case "unrated":
+            subRank.textContent = `Unrated(#${unratedRank})`;
+            unratedRank++;
+            break;
+
+        case "unratedall":
+            subRank.textContent = "Unrated(-)";
+            break;
+
+        case "challenge":
             subRank.textContent = "Challenge";
+            break;
         }
     });
 });
