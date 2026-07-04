@@ -37,6 +37,10 @@ document.addEventListener("DOMContentLoaded", () => {
             case "challenge":
                 subRank.textContent = "Challenge";
                 break;
+
+            default:
+                subRank.textContent = "?";
+                break;
         }
     });
 });
