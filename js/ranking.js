@@ -26,16 +26,16 @@ document.addEventListener("DOMContentLoaded", () => {
                 break;
     
             case "unrated":
-                subRank.textContent = `UR(#${unratedRank})`;
+                subRank.textContent = `UR #${unratedRank}`;
                 unratedRank++;
                 break;
     
             case "unratedall":
-                subRank.textContent = "UR(-)";
+                subRank.textContent = "UR #-";
                 break;
     
             case "challenge":
-                subRank.textContent = `Chall(#${challengeRank})`;
+                subRank.textContent = `Chall #${challengeRank}`;
                 challengeRank++;
                 break;
 
