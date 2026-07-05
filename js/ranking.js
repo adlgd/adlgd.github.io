@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         const status = subRank.dataset.status;
 
-        if (status === "unratedall") {
+        if (status === "unratedother") {
             mainRankElement.textContent = "-";
         } else {
             mainRankElement.textContent = `#${mainRank}`;
@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 unratedRank++;
                 break;
     
-            case "unratedall":
+            case "unratedother":
                 subRank.textContent = "UR #-";
                 break;
     
