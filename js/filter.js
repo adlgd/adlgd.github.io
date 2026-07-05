@@ -4,7 +4,7 @@ const searchBox = document.getElementById("searchBox");
 const ratedCheck = document.getElementById("ratedCheck");
 const unratedCheck = document.getElementById("unratedCheck");
 const challengeCheck = document.getElementById("challengeCheck");
-const unratedallCheck = document.getElementById("unratedallCheck");
+const unratedotherCheck = document.getElementById("unratedotherCheck");
 
 filterButton.addEventListener("click",(e)=>{
     e.stopPropagation();
@@ -24,11 +24,11 @@ searchBox.addEventListener("input",updateList);
 
 ratedCheck.addEventListener("change", handleCheckChange);
 unratedCheck.addEventListener("change", handleCheckChange);
-unratedallCheck.addEventListener("change", handleCheckChange);
+unratedotherCheck.addEventListener("change", handleCheckChange);
 
 function handleCheckChange() {
 
-    if (!ratedCheck.checked && !unratedCheck.checked && !unratedallCheck.checked && !challengeCheck.checked) {
+    if (!ratedCheck.checked && !unratedCheck.checked && !unratedotherCheck.checked && !challengeCheck.checked) {
         ratedCheck.checked = true;
         unratedCheck.checked = true;
         challengeCheck.checked = true;
@@ -67,7 +67,7 @@ function updateList(){
         if(status==="challenge" && challengeCheck.checked)
             statusMatch=true;
 
-        if(status==="unratedall" && unratedallCheck.checked)
+        if(status==="unratedother" && unratedotherCheck.checked)
             statusMatch=true;
 
         entry.style.display=
