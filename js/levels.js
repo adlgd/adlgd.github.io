@@ -626,7 +626,7 @@ const levels = {
     youtube: "Rz7Um6lxYYU",
     song: "- by - (ID 96), Innocent Days by Hitomi (NONG)",
     description: "\"I said that Geass was the power of the king which would condemn you to a life of solitude. I think maybe that's not quite correct. Right, Lelouch?\"",
-    trivia: "Hardest challenge?"
+    trivia: "Hardest challenge"
   },
   illusionofhell: {
     name: "Illusion of Hell",
