@@ -31,7 +31,7 @@ const levels = {
     youtube: "CELNmHwln_c",
     song: "Nuke Powder by MaelouX (ID 489111)",
     description: "A mindscape of pure insanity, most fall to it's brutal nature. Gameplay by CoCy team, Deco hosted by DrCuber, Verified by Zoink. Dedicated to Hideki <3",
-    trivia: "Former Top 1(1 hour(before Amethyst) + 49 days(cbf blocker placed on Amethyst) + ), Cbf blocker deleted"
+    trivia: "Former Top 1(1 hour(before Amethyst) + 49 days(cbf blocker placed on Amethyst) + 115 days), Cbf blocker deleted"
   },
   amethyst: {
     name: "Amethyst",
