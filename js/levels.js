@@ -1342,4 +1342,21 @@ const levels = {
     description: "Verified after 7 years. Dedicated to ViperVenom95, de_youngs, and MEALY clan. Originally by GD Virus",
     trivia: "Old impossible level"
   },
+  poocubed: {
+    name: "poocubed",
+    publisher: "Liisp and more",
+    creator: "Liisp(host, publisher), Faraox, Aespha, Pho, TypicalGMD, Earthum, Aranda",
+    verifier: "Kyasshukodo",
+    id: "85133223",
+    password: "688255",
+    length: "1m 22s",
+    object: "105,865",
+    version: "2.113",
+    difficulty: "Extreme Demon",
+    rating: "Featured",
+    youtube: "fzL31vai1ms",
+    song: "EspiDev - Parfait by EspiDev (ID 763176)",
+    description: "-",
+    trivia: "-"
+  },
 };
