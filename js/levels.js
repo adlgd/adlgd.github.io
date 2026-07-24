@@ -526,22 +526,22 @@ const levels = {
     description: "Defeated. (Verified by Zoink)",
     trivia: "Remake version of old impossible level"
   },
-  subterminalpoint: {
-    name: "Subterminal Point",
-    publisher: "SyQual",
-    creator: "SyQual",
-    verifier: "PoCle",
-    id: "113599729",
+  subconscious: {
+    name: "Subconscious",
+    publisher: "apuuu",
+    creator: "Lunarria(original), lolwut7(fix)",
+    verifier: "apuu",
+    id: "142110758",
     password: "Free Copy",
-    length: "1m 10s",
-    object: "40,970",
-    version: "2.207",
-    difficulty: "Extreme Demon",
-    rating: "Featured",
-    youtube: "h2wmRMgACH4",
-    song: "re:カレント by Miyolophone (ID 783614)",
-    description: "Also inspired by Maplestory. Verified by PoCle",
-    trivia: "-"
+    length: "1m 13s",
+    object: "238,743",
+    version: "2.208",
+    difficulty: "Insane",
+    rating: "Unrated",
+    youtube: "lBXO2CTEMfs",
+    song: "Psybot - Midnight storm by Psybot (ID 214728)",
+    description: "Impossible 2.0 level made by Lunarria. Fixed for 2.2 by lolwut, verified by me.",
+    trivia: "Original Version id: 70744720, fixed sp: 134379544"
   },
   tunnelofdespair: {
     name: "Tunnel of Despair",
@@ -610,6 +610,23 @@ const levels = {
     song: "F-777 - Sonic Blaster by F-777 (ID 574484)",
     description: "Slithium's version of Sonic Wave Infinity, cancelled due to Xanii's verification. Verified by Hipo (me, not credited in the endscreen to stay faithful to the original copy).",
     trivia: "Buffed version(old impossible) of Sonic Wave Infinity"
+  },
+  subterminalpoint: {
+    name: "Subterminal Point",
+    publisher: "SyQual",
+    creator: "SyQual",
+    verifier: "PoCle",
+    id: "113599729",
+    password: "Free Copy",
+    length: "1m 10s",
+    object: "40,970",
+    version: "2.207",
+    difficulty: "Extreme Demon",
+    rating: "Featured",
+    youtube: "h2wmRMgACH4",
+    song: "re:カレント by Miyolophone (ID 783614)",
+    description: "Also inspired by Maplestory. Verified by PoCle",
+    trivia: "-"
   },
   re: {
     name: "Re",
