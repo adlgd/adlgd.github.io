@@ -1,4 +1,21 @@
 const levels = {
+  nopage: {
+    name: "No Page",
+    publisher: "",
+    creator: "",
+    verifier: "",
+    id: "",
+    password: "",
+    length: "",
+    object: "",
+    version: "",
+    difficulty: "",
+    rating: "",
+    youtube: "dQw4w9WgXcQ",
+    song: "Never Gonna Give You Up by Rick Astley",
+    description: "NO PAGE",
+    trivia: "rickrolling"
+  },
   society: {
     name: "Society",
     publisher: "Neomarbilan and more",
