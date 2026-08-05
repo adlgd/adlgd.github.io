@@ -101,6 +101,23 @@ const levels = {
     description: "Drown them",
     trivia: "Former Top 1(162 days(Unrated) + 472 days(before Thinking Space II)"
   },
+  greenbullet: {
+    name: "Green Bullet",
+    publisher: "cherryteam",
+    creator: "MinaY(host), Konsi, AirSavage, Loolycat, RhymerGD, XenithIsTaken, Ego11, winchester94, Fawks, IlSultarGD, E9KH, Dom89, harent, Delisya",
+    verifier: "NiCkNaMe09",
+    id: "142896409",
+    password: "Free Copy",
+    length: "2m 5s",
+    object: "197,834",
+    version: "2.208",
+    difficulty: "Extreme Demon",
+    rating: "Epic",
+    youtube: "JG-qcvVkZFw",
+    song: "Bossfight - Decimate by Bossfight (ID 1308682)",
+    description: "Hosted by MinaY // Verified by Nickname09 in 105113 attempts",
+    trivia: "-"
+  },
   orbit: {
     name: "ORBIT",
     publisher: "MindCap and more",
@@ -269,6 +286,23 @@ const levels = {
     youtube: "AO--mVVFtKI",
     song: "Every End... by Dimrain47 (ID 99477)",
     description: "Never Ending",
+    trivia: "-"
+  },
+  thebloop: {
+    name: "The Bloop",
+    publisher: "murkkat and more",
+    creator: "Mr. Git, Zackattack111, TripL, CharlieDanger, katzen, deltaaimee, SP4RKURCH1N, ToxicJohnson, eveee, Mr. Spread, super79, Spectical, C0mical, Billzer, Armani, TOP5, Yakub, kekchungle44, Cryonix6000, Xholeda",
+    verifier: "Zoink",
+    id: "135661111",
+    password: "Free Copy",
+    length: "1m 46s",
+    object: "108,897",
+    version: "2.208",
+    difficulty: "Extreme Demon",
+    rating: "-",
+    youtube: "ROuXHSKEhHA",
+    song: "We Are All Funked by larrynachos (ID 890355)",
+    description: "\"Beware the path this monster takes\" - Ozlip // All assets used with permission // Inspired by Kenos, verified by Zoink.",
     trivia: "-"
   },
   ultraparacosm: {
@@ -440,23 +474,6 @@ const levels = {
     song: "dj-nate - Clubstep (ingame song)",
     description: "7 years and you still play me?!",
     trivia: "Lost Top 1(underrated)"
-  },
-  thebloop: {
-    name: "The Bloop",
-    publisher: "murkkat and more",
-    creator: "Mr. Git, Zackattack111, TripL, CharlieDanger, katzen, deltaaimee, SP4RKURCH1N, ToxicJohnson, eveee, Mr. Spread, super79, Spectical, C0mical, Billzer, Armani, TOP5, Yakub, kekchungle44, Cryonix6000, Xholeda",
-    verifier: "Zoink",
-    id: "135661111",
-    password: "Free Copy",
-    length: "1m 46s",
-    object: "108,897",
-    version: "2.208",
-    difficulty: "Extreme Demon",
-    rating: "-",
-    youtube: "ROuXHSKEhHA",
-    song: "We Are All Funked by larrynachos (ID 890355)",
-    description: "\"Beware the path this monster takes\" - Ozlip // All assets used with permission // Inspired by Kenos, verified by Zoink.",
-    trivia: "-"
   },
   spectre: {
     name: "Spectre",
