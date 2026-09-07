@@ -154,7 +154,7 @@ const levels = {
   },
   antarcticlights: {
     name: "Antarctic Lights",
-    publisher: "declanlc",
+    publisher: "declanlc and more",
     creator: "declanlc(publisher), SkyJax, Tolstyh, Arcturus",
     verifier: "Axinity",
     id: "144988390",
