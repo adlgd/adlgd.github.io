@@ -167,7 +167,7 @@ const levels = {
     youtube: "Uue4ZRhVf-I",
     song: "~NK~ Fear Me (NGADm Entry) by Rukkus (ID 428157)",
     description: "The lights shine bright on a cold Antarctic night. By Declan, SkyJax, Tolstyh and Arcturus. Verified by Axinity. Good Luck...",
-    trivia: "Hardest Nine Circles level"
+    trivia: "Hardest Nine Circles theme level"
   },
   nullscapes: {
     name: "Nullscapes",
@@ -201,7 +201,7 @@ const levels = {
     youtube: "AdrmZsy52EY",
     song: "Iron God: Sakupen Hell Yes RMX by mr-jazzman (ID 360804)",
     description: "Another nine circles level. Hardest nine circles level ever created?",
-    trivia: "Original version of Sakupen Circles, former Top 1 of Unrated level, Hardest Nine Circles theme level"
+    trivia: "Original version of Sakupen Circles, former Top 1 of Unrated level"
   },
   quanteuseprocessing: {
     name: "Quanteuse processing",
