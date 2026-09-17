@@ -33,6 +33,23 @@ const levels = {
     description: "// Is it guilt that keeps you awake at night or is it someone who cant accept the truth? //",
     trivia: "Current Top 1"
   },
+  artemis13: {
+    name: "Artemis 13",
+    publisher: "mvngo and more",
+    creator: "mvngo(host, publisher), nxhtrise, Hexy, STARhack, CerrunoGMD",
+    verifier: "Zoink",
+    id: "148598469",
+    password: "Free Copy",
+    length: "1m 16s",
+    object: "51,879",
+    version: "2.208",
+    difficulty: "Insane",
+    rating: "Unrated",
+    youtube: "FgjOM0ef1N8",
+    song: "~NK~ \"Headrush\" by Rukkus",
+    description: "To all of you down there on Earth... we love you from the moon. // Verified by Zoink.",
+    trivia: "Current Top 1 of Unrated level"
+  },
   thinkingspaceii: {
     name: "Thinking Space II",
     publisher: "CairoX and more",
