@@ -48,7 +48,7 @@ const levels = {
     youtube: "FgjOM0ef1N8",
     song: "~NK~ \"Headrush\" by Rukkus",
     description: "To all of you down there on Earth... we love you from the moon. // Verified by Zoink.",
-    trivia: "Current Top 1 of Unrated level"
+    trivia: "-"
   },
   thinkingspaceii: {
     name: "Thinking Space II",
@@ -167,7 +167,7 @@ const levels = {
     youtube: "Hpo77uVq75M",
     song: "Electroman Adventures by Waterflame (ingame song)",
     description: "GOOD LUCK",
-    trivia: "Original version of SARY NEVER CLEAR, Former Top 1 of Unrated level"
+    trivia: "Original version of SARY NEVER CLEAR, Current Top 1 of Unrated level"
   },
   antarcticlights: {
     name: "Antarctic Lights",
