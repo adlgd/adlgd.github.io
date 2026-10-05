@@ -16,6 +16,23 @@ const levels = {
     description: "NO PAGE",
     trivia: "rickrolling"
   },
+  grief: {
+    name: "GRIEF",
+    publisher: "IcEDCave and more",
+    creator: "IcEDCave(host, publisher, original), RealVet, GDIris, doop, greafer, Triplash, DrCuber, GhostVandalf, Mercury, Burgadah, GrenadeOfTacos, CDMusic, Rynoxious",
+    verifier: "Doggie",
+    id: "149992717",
+    password: "Free Copy",
+    length: "2m 47s",
+    object: "194,486",
+    version: "2.208",
+    difficulty: "Extreme Demon",
+    rating: "Epic",
+    youtube: "fV9rheIAddk",
+    song: "KzX - Stalemate by Kayoszx (ID 482872)",
+    description: "The End.",
+    trivia: "Current Top 1"
+  },
   society: {
     name: "Society",
     publisher: "Neomarbilan and more",
@@ -31,7 +48,7 @@ const levels = {
     youtube: "3CoEaH1CM7o",
     song: "Pathetic - Society (Remix) by HelliXScream (ID 1569886), Society by pathetic240px (NONG)",
     description: "// Is it guilt that keeps you awake at night or is it someone who cant accept the truth? //",
-    trivia: "Current Top 1"
+    trivia: "Former Top 1(104 days)"
   },
   artemis13: {
     name: "Artemis 13",
