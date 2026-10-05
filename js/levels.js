@@ -47,7 +47,7 @@ const levels = {
     rating: "Featured",
     youtube: "3CoEaH1CM7o",
     song: "Pathetic - Society (Remix) by HelliXScream (ID 1569886), Society by pathetic240px (NONG)",
-    description: "// Is it guilt that keeps you awake at night or is it someone who cant accept the truth? //",
+    description: "// Why are you always awake at night? //",
     trivia: "Former Top 1(104 days)"
   },
   artemis13: {
