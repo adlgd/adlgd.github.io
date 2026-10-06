@@ -28,7 +28,7 @@ const levels = {
     version: "2.208",
     difficulty: "Extreme Demon",
     rating: "Epic",
-    youtube: "fV9rheIAddk",
+    youtube: "gB8slBPlOjc",
     song: "KzX - Stalemate by Kayoszx (ID 482872)",
     description: "The End.",
     trivia: "Current Top 1"
